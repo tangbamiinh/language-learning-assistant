@@ -1,0 +1,1457 @@
+[
+  {
+    "id": "scenario_001",
+    "title": "Chào hỏi và giới thiệu bản thân",
+    "title_zh": "问候和自我介绍",
+    "description": "Tình huống gặp một người bạn mới tại sự kiện giao lưu ngôn ngữ. Bạn sẽ học cách chào hỏi, giới thiệu tên, quốc tịch, tuổi tác, và nghề nghiệp bằng tiếng Trung.",
+    "hsk_level": 1,
+    "setting": "Sự kiện giao lưu ngôn ngữ tại trường đại học",
+    "characters": ["student_a", "student_b"],
+    "key_vocabulary": [
+      {
+        "vietnamese": "chào",
+        "chinese": "你好",
+        "pinyin": "nǐ hǎo",
+        "english": "hello"
+      },
+      {
+        "vietnamese": "tôi",
+        "chinese": "我",
+        "pinyin": "wǒ",
+        "english": "I, me"
+      },
+      {
+        "vietnamese": "tên",
+        "chinese": "叫",
+        "pinyin": "jiào",
+        "english": "to be called"
+      },
+      {
+        "vietnamese": "sinh viên",
+        "chinese": "学生",
+        "pinyin": "xuéshēng",
+        "english": "student"
+      },
+      {
+        "vietnamese": "bao nhiêu tuổi",
+        "chinese": "多大",
+        "pinyin": "duō dà",
+        "english": "how old"
+      },
+      {
+        "vietnamese": "tuổi",
+        "chinese": "岁",
+        "pinyin": "suì",
+        "english": "years old"
+      },
+      {
+        "vietnamese": "nước nào",
+        "chinese": "哪国人",
+        "pinyin": "nǎ guó rén",
+        "english": "from which country"
+      },
+      {
+        "vietnamese": "cùng nhau học",
+        "chinese": "一起学习",
+        "pinyin": "yìqǐ xuéxí",
+        "english": "study together"
+      }
+    ],
+    "sample_dialogue": [
+      {
+        "speaker": "student_a",
+        "vietnamese": "Xin chào!",
+        "chinese": "你好！",
+        "pinyin": "Nǐ hǎo!"
+      },
+      {
+        "speaker": "student_b",
+        "vietnamese": "Xin chào!",
+        "chinese": "你好！",
+        "pinyin": "Nǐ hǎo!"
+      },
+      {
+        "speaker": "student_a",
+        "vietnamese": "Tôi tên là Minh, tôi là người Việt Nam. Bạn tên là gì?",
+        "chinese": "我叫明，我是越南人。你叫什么名字？",
+        "pinyin": "Wǒ jiào Míng, wǒ shì Yuènán rén. Nǐ jiào shénme míngzì?"
+      },
+      {
+        "speaker": "student_b",
+        "vietnamese": "Tôi tên là Tiểu Hoa, tôi là người Trung Quốc. Rất vui được gặp bạn!",
+        "chinese": "我叫小花，我是中国人。很高兴认识你！",
+        "pinyin": "Wǒ jiào Xiǎo Huā, wǒ shì Zhōngguó rén. Hěn gāoxìng rènshi nǐ!"
+      },
+      {
+        "speaker": "student_a",
+        "vietnamese": "Tôi cũng rất vui được gặp bạn! Bạn bao nhiêu tuổi?",
+        "chinese": "我也很高兴认识你！你多大了？",
+        "pinyin": "Wǒ yě hěn gāoxìng rènshi nǐ! Nǐ duō dà le?"
+      },
+      {
+        "speaker": "student_b",
+        "vietnamese": "Tôi hai mươi ba tuổi. Còn bạn?",
+        "chinese": "我二十三岁。你呢？",
+        "pinyin": "Wǒ èrshísān suì. Nǐ ne?"
+      },
+      {
+        "speaker": "student_a",
+        "vietnamese": "Tôi hai mươi hai tuổi. Bạn là sinh viên chứ?",
+        "chinese": "我二十二岁。你是学生吗？",
+        "pinyin": "Wǒ èrshì'èr suì. Nǐ shì xuéshēng ma?"
+      },
+      {
+        "speaker": "student_b",
+        "vietnamese": "Đúng vậy, tôi là sinh viên đại học. Tôi học tiếng Anh. Bạn học gì?",
+        "chinese": "对，我是大学生。我学中文。你学什么？",
+        "pinyin": "Duì, wǒ shì dàxué shēng. Wǒ xué Zhōngwén. Nǐ xué shénme?"
+      },
+      {
+        "speaker": "student_a",
+        "vietnamese": "Tôi học tiếng Trung! Chúng ta cùng nhau học nhé!",
+        "chinese": "我学中文！我们一起学习吧！",
+        "pinyin": "Wǒ xué Zhōngwén! Wǒmen yìqǐ xuéxí ba!"
+      },
+      {
+        "speaker": "student_b",
+        "vietnamese": "Tốt lắm! Tôi có thể giúp bạn luyện phát âm.",
+        "chinese": "太好了！我可以帮你练习发音。",
+        "pinyin": "Tài hǎo le! Wǒ kěyǐ bāng nǐ liànxí fāyīn."
+      }
+    ],
+    "cognates_used": [
+      "学生 (học sinh)",
+      "大学 (đại học)",
+      "学习 (học tập)",
+      "中国 (Trung Quốc)",
+      "越南 (Việt Nam)"
+    ],
+    "tips": [
+      "Câu '我叫...' (Wǒ jiào...) là cách phổ biến nhất để giới thiệu tên trong tiếng Trung.",
+      "注意: '认识' (rènshi) có Hán Việt là 'nhận thức', trong tiếng Trung có nghĩa là 'làm quen / biết ai đó'.",
+      "Số đếm trong tiếng Trung rất giống số đếm Hán Việt: 一(1), 二(2), 三(3), 四(4), 五(5), 六(6), 七(7), 八(8), 九(9), 十(10).",
+      "Từ '呢' (ne) ở cuối câu là cách nói ngắn gọn để hỏi ngược lại, giống như 'còn bạn?' trong tiếng Việt."
+    ]
+  },
+  {
+    "id": "scenario_002",
+    "title": "Đặt món tại nhà hàng",
+    "title_zh": "在餐厅点菜",
+    "description": "Tình huống vào một nhà hàng Trung Hoa để đặt món ăn. Bạn sẽ học cách xem thực đơn, hỏi về món ăn, gọi món, và thanh toán.",
+    "hsk_level": 2,
+    "setting": "Nhà hàng Trung Hoa",
+    "characters": ["customer", "waiter"],
+    "key_vocabulary": [
+      {
+        "vietnamese": "nhà hàng",
+        "chinese": "餐厅",
+        "pinyin": "cāntīng",
+        "english": "restaurant"
+      },
+      {
+        "vietnamese": "thực đơn",
+        "chinese": "菜单",
+        "pinyin": "càidān",
+        "english": "menu"
+      },
+      {
+        "vietnamese": "món ăn",
+        "chinese": "菜",
+        "pinyin": "cài",
+        "english": "dish"
+      },
+      {
+        "vietnamese": "đậu phụ",
+        "chinese": "豆腐",
+        "pinyin": "dòufu",
+        "english": "tofu"
+      },
+      {
+        "vietnamese": "gà",
+        "chinese": "鸡",
+        "pinyin": "jī",
+        "english": "chicken"
+      },
+      {
+        "vietnamese": "cơm",
+        "chinese": "米饭",
+        "pinyin": "mǐfàn",
+        "english": "rice"
+      },
+      {
+        "vietnamese": "muốn ăn",
+        "chinese": "要",
+        "pinyin": "yào",
+        "english": "want to order"
+      },
+      {
+        "vietnamese": "bao nhiêu tiền",
+        "chinese": "多少钱",
+        "pinyin": "duōshao qián",
+        "english": "how much money"
+      },
+      {
+        "vietnamese": "tổng cộng",
+        "chinese": "一共",
+        "pinyin": "yì gòng",
+        "english": "in total"
+      },
+      {
+        "vietnamese": "ăn cay không",
+        "chinese": "能吃辣吗",
+        "pinyin": "néng chī là ma",
+        "english": "can you eat spicy food"
+      }
+    ],
+    "sample_dialogue": [
+      {
+        "speaker": "waiter",
+        "vietnamese": "Xin chào! Ngài muốn ngồi mấy người?",
+        "chinese": "您好！请问几位？",
+        "pinyin": "Nín hǎo! Qǐngwèn jǐ wèi?"
+      },
+      {
+        "speaker": "customer",
+        "vietnamese": "Hai người. Tôi xin xem thực đơn với.",
+        "chinese": "两位。请给我看一下菜单。",
+        "pinyin": "Liǎng wèi. Qǐng gěi wǒ kàn yíxià càidān."
+      },
+      {
+        "speaker": "waiter",
+        "vietnamese": "Vâng, đây là thực đơn. Ngài cần xem một chút hay tôi giới thiệu giúp?",
+        "chinese": "好的，这是菜单。您需要看一下，还是我给您介绍一下？",
+        "pinyin": "Hǎo de, zhè shì càidān. Nín xūyào kàn yíxià, háishì wǒ gěi nín jièshào yíxià?"
+      },
+      {
+        "speaker": "customer",
+        "vietnamese": "Nhà hàng có món gì ngon không?",
+        "chinese": "你们有什么好吃的？",
+        "pinyin": "Nǐmen yǒu shénme hǎo chī de?"
+      },
+      {
+        "speaker": "waiter",
+        "vietnamese": "Đậu phụ mapo và gà xào ấu câu rất ngon. Ngài có ăn được cay không?",
+        "chinese": "麻婆豆腐和宫保鸡丁很好吃。您能吃辣吗？",
+        "pinyin": "Mápó dòufu hé gōngbǎo jīdīng hěn hǎo chī. Nín néng chī là ma?"
+      },
+      {
+        "speaker": "customer",
+        "vietnamese": "Tôi ăn được một chút. Cho tôi một đĩa đậu phụ mapo, một đĩa gà xào ấu câu, và hai bát cơm.",
+        "chinese": "我能吃一点。请给我一份麻婆豆腐，一份宫保鸡丁，还有两碗米饭。",
+        "pinyin": "Wǒ néng chī yìdiǎn. Qǐng gěi wǒ yí fèn mápó dòufu, yí fèn gōngbǎo jīdīng, hái yǒu liǎng wǎn mǐfàn."
+      },
+      {
+        "speaker": "waiter",
+        "vietnamese": "Vâng. Ngài cần uống gì không?",
+        "chinese": "好的。请问需要喝点什么？",
+        "pinyin": "Hǎo de. Qǐngwèn xūyào hē diǎn shénme?"
+      },
+      {
+        "speaker": "customer",
+        "vietnamese": "Hai cốc trà. Không cần gì thêm nữa.",
+        "chinese": "两杯茶。先这些。",
+        "pinyin": "Liǎng bēi chá. Xiān zhèxiē."
+      },
+      {
+        "speaker": "waiter",
+        "vietnamese": "Vâng, tôi đi ngay. Mong ngài dùng bữa ngon miệng!",
+        "chinese": "好的，马上来。祝您用餐愉快！",
+        "pinyin": "Hǎo de, mǎshàng lái. Zhù nín yòngcān yúkuài!"
+      }
+    ],
+    "cognates_used": [
+      "餐厅 (can đình -> nhà hàng)",
+      "菜单 (thực đơn)",
+      "豆腐 (đậu phụ)",
+      "一共 (ý cộng -> tổng cộng)",
+      "饭 (phạn -> cơm)",
+      "用餐 (dùng yến -> ăn uống)"
+    ],
+    "tips": [
+      "'份' (fèn) và '碗' (wǎn) là lượng từ: '份' dùng cho món ăn, '碗' dùng cho đồ ăn trong bát.",
+      "'好吃' (hǎo chī) nghĩa đen là 'ăn tốt', tức là 'ngon'. Đây là cấu trúc tính từ + động từ rất phổ biến.",
+      "Thực đơn (菜+单) và đậu phụ (豆腐) đều là từ Hán Việt dễ nhận biết.",
+      "Lưu ý: '豆腐' đọc là dòufu, âm thứ hai là thanh nhẹ (neutral tone), không phải dòufu."
+    ]
+  },
+  {
+    "id": "scenario_003",
+    "title": "Mua sắm tại chợ",
+    "title_zh": "在市场购物",
+    "description": "Tình huống đi mua đồ tại một chợ địa phương ở Trung Quốc. Bạn sẽ học cách hỏi giá, mặc cả, và mua đồ ăn, trái cây, quần áo.",
+    "hsk_level": 2,
+    "setting": "Chợ địa phương",
+    "characters": ["buyer", "seller"],
+    "key_vocabulary": [
+      {
+        "vietnamese": "chợ",
+        "chinese": "市场",
+        "pinyin": "shìchǎng",
+        "english": "market"
+      },
+      {
+        "vietnamese": "mua",
+        "chinese": "买",
+        "pinyin": "mǎi",
+        "english": "to buy"
+      },
+      {
+        "vietnamese": "bán",
+        "chinese": "卖",
+        "pinyin": "mài",
+        "english": "to sell"
+      },
+      {
+        "vietnamese": "quá đắt",
+        "chinese": "太贵了",
+        "pinyin": "tài guì le",
+        "english": "too expensive"
+      },
+      {
+        "vietnamese": "rẻ hơn được không",
+        "chinese": "便宜一点",
+        "pinyin": "piányi yìdiǎn",
+        "english": "a bit cheaper"
+      },
+      {
+        "vietnamese": "quả",
+        "chinese": "斤",
+        "pinyin": "jīn",
+        "english": "jin (500g)"
+      },
+      {
+        "vietnamese": "tươi",
+        "chinese": "新鲜",
+        "pinyin": "xīnxiān",
+        "english": "fresh"
+      },
+      {
+        "vietnamese": "bao nhiêu một ký",
+        "chinese": "多少钱一斤",
+        "pinyin": "duōshao qián yí jīn",
+        "english": "how much per jin"
+      },
+      {
+        "vietnamese": "giảm giá",
+        "chinese": "打折",
+        "pinyin": "dǎ zhé",
+        "english": "discount"
+      },
+      {
+        "vietnamese": "túi",
+        "chinese": "袋",
+        "pinyin": "dài",
+        "english": "bag"
+      }
+    ],
+    "sample_dialogue": [
+      {
+        "speaker": "buyer",
+        "vietnamese": "Chào bạn, dưa hấu bao nhiêu tiền một ký?",
+        "chinese": "你好，西瓜多少钱一斤？",
+        "pinyin": "Nǐ hǎo, xīguā duōshao qián yí jīn?"
+      },
+      {
+        "speaker": "seller",
+        "vietnamese": "Ba tệ tám một ký. Rất tươi đấy!",
+        "chinese": "三块八一斤。很新鲜！",
+        "pinyin": "Sān kuài bā yí jīn. Hěn xīnxiān!"
+      },
+      {
+        "speaker": "buyer",
+        "vietnamese": "Hơi đắt quá. Hai tệ bán cho tôi với?",
+        "chinese": "太贵了。两块行吗？",
+        "pinyin": "Tài guì le. Liǎng kuài xíng ma?"
+      },
+      {
+        "speaker": "seller",
+        "vietnamese": "Hai tệ thì không được. Ba tệ là tốt nhất rồi. Rất tươi ngon!",
+        "chinese": "两块不行。三块最低了。很新鲜的！",
+        "pinyin": "Liǎng kuài bù xíng. Sān kuài zuìdī le. Hěn xīnxiān de!"
+      },
+      {
+        "speaker": "buyer",
+        "vietnamese": "Ba tệ đi! Cho tôi năm ký nhé.",
+        "chinese": "好吧，三块。给我来五斤。",
+        "pinyin": "Hǎo ba, sān kuài. Gěi wǒ lái wǔ jīn."
+      },
+      {
+        "speaker": "seller",
+        "vietnamese": "Vâng! Được rồi, năm ký dưa hấu. Tôi bịch lại cho bạn nhé.",
+        "chinese": "好的！来，五斤西瓜。我给您装好。",
+        "pinyin": "Hǎo de! Lái, wǔ jīn xīguā. Wǒ gěi nín zhuāng hǎo."
+      },
+      {
+        "speaker": "buyer",
+        "vietnamese": "Tất cả bao nhiêu tiền?",
+        "chinese": "一共多少钱？",
+        "pinyin": "Yì gòng duōshao qián?"
+      },
+      {
+        "speaker": "seller",
+        "vietnamese": "Năm ký nhân ba tệ, mười lăm tệ. Tiền mặt hay扫码?",
+        "chinese": "五斤三块，十五块。现金还是扫码？",
+        "pinyin": "Wǔ jīn sān kuài, shíwǔ kuài. Xiànjīn háishì sǎomǎ?"
+      },
+      {
+        "speaker": "buyer",
+        "vietnamese": "Tôi扫码支付 nhé. Cảm ơn!",
+        "chinese": "我扫码。谢谢！",
+        "pinyin": "Wǒ sǎomǎ. Xièxie!"
+      },
+      {
+        "speaker": "seller",
+        "vietnamese": "Đã nhận được rồi. Chào bạn!",
+        "chinese": "收到了。慢走！",
+        "pinyin": "Shōudào le. Màn zǒu!"
+      }
+    ],
+    "cognates_used": [
+      "市场 (thị trường)",
+      "新鲜 (tân tiên -> mới tươi)",
+      "一共 (ý cộng -> tổng cộng)",
+      "现金 (hiện kim -> tiền mặt)"
+    ],
+    "tips": [
+      "Ở Trung Quốc, đơn vị đo lường dùng '斤' (jīn = 500g) thay vì 'ký' (kg). 1 kg = 2 斤.",
+      "Mặc cả (讨价还价) là chuyện bình thường ở chợ. Đừng ngại thương lượng!",
+      "'块' (kuài) là cách nói thông thường của '元' (yuán) - đơn vị tiền tệ của Trung Quốc.",
+      "'扫码' (sǎo mǎ) nghĩa là quét mã QR để thanh toán. Ở Trung Quốc, thanh toán bằng điện thoại rất phổ biến.",
+      "'市场' (thị trường) và '新鲜' (tân tiên) là từ Hán Việt dễ nhận biết."
+    ]
+  },
+  {
+    "id": "scenario_004",
+    "title": "Hỏi đường",
+    "title_zh": "问路",
+    "description": "Tình huống bạn đang ở một thành phố của Trung Quốc và cần hỏi đường đến một địa điểm. Bạn sẽ học cách hỏi đường, hiểu hướng đi, và sử dụng các phương tiện giao thông.",
+    "hsk_level": 2,
+    "setting": "Đường phố thành phố",
+    "characters": ["tourist", "passerby"],
+    "key_vocabulary": [
+      {
+        "vietnamese": "xin lỗi",
+        "chinese": "不好意思",
+        "pinyin": "bù hǎoyìsi",
+        "english": "excuse me"
+      },
+      {
+        "vietnamese": "cái này ở đâu",
+        "chinese": "在哪里",
+        "pinyin": "zài nǎlǐ",
+        "english": "where is it"
+      },
+      {
+        "vietnamese": "đi thẳng",
+        "chinese": "直走",
+        "pinyin": "zhí zǒu",
+        "english": "go straight"
+      },
+      {
+        "vietnamese": "rẽ trái",
+        "chinese": "向左转",
+        "pinyin": "xiàng zuǒ zhuǎn",
+        "english": "turn left"
+      },
+      {
+        "vietnamese": "rẽ phải",
+        "chinese": "向右转",
+        "pinyin": "xiàng yòu zhuǎn",
+        "english": "turn right"
+      },
+      {
+        "vietnamese": "gần ga tàu",
+        "chinese": "在车站旁边",
+        "pinyin": "zài chēzhàn pángbiān",
+        "english": "next to the station"
+      },
+      {
+        "vietnamese": "xa",
+        "chinese": "远",
+        "pinyin": "yuǎn",
+        "english": "far"
+      },
+      {
+        "vietnamese": "gần",
+        "chinese": "近",
+        "pinyin": "jìn",
+        "english": "near"
+      },
+      {
+        "vietnamese": "phía trước",
+        "chinese": "前面",
+        "pinyin": "qiánmiàn",
+        "english": "in front"
+      },
+      {
+        "vietnamese": "phía sau",
+        "chinese": "后面",
+        "pinyin": "hòumiàn",
+        "english": "behind"
+      }
+    ],
+    "sample_dialogue": [
+      {
+        "speaker": "tourist",
+        "vietnamese": "Xin lỗi, bác cho hỏi Bệnh viện Nhân dân ở đâu ạ?",
+        "chinese": "不好意思，请问人民医院在哪里？",
+        "pinyin": "Bù hǎoyìsi, qǐngwèn Rénmín Yīyuàn zài nǎlǐ?"
+      },
+      {
+        "speaker": "passerby",
+        "vietnamese": "Bệnh viện à? Bạn cứ đi thẳng qua hai giao lộ, sau đó rẽ phải.",
+        "chinese": "医院啊？你直走两个路口，然后向右转。",
+        "pinyin": "Yīyuàn a? Nǐ zhí zǒu liǎng gè lùkǒu, ránhòu xiàng yòu zhuǎn."
+      },
+      {
+        "speaker": "tourist",
+        "vietnamese": "Nó xa không ạ?",
+        "chinese": "远吗？",
+        "pinyin": "Yuǎn ma?"
+      },
+      {
+        "speaker": "passerby",
+        "vietnamese": "Khoảng mười lăm phút đi bộ. Nếu bạn muốn nhanh hơn thì có thể đi taxi.",
+        "chinese": "走路大概十五分钟。你想快一点的话可以打车。",
+        "pinyin": "Zǒulù dàgài shíwǔ fēnzhōng. Nǐ xiǎng kuài yìdiǎn de huà kěyǐ dǎ chē."
+      },
+      {
+        "speaker": "tourist",
+        "vietnamese": "Tôi không biết đường, đi taxi chắc tốt hơn. Trạm taxi ở đâu?",
+        "chinese": "我不认识路，打车好一点。出租车站在哪里？",
+        "pinyin": "Wǒ bù rènshi lù, dǎ chē hǎo yìdiǎn. Chūzū chēzhàn zài nǎlǐ?"
+      },
+      {
+        "speaker": "passerby",
+        "vietnamese": "Bạn nhìn phía trước, qua đường bên tay trái là có. Rất gần đấy.",
+        "chinese": "你看前面，过马路左手边就是。很近的。",
+        "pinyin": "Nǐ kàn qiánmiàn, guò mǎlù zuǒshǒu biān jiùshì. Hěn jìn de."
+      },
+      {
+        "speaker": "tourist",
+        "vietnamese": "Cảm ơn bác nhiều!真的太感谢了!",
+        "chinese": "太谢谢你了！",
+        "pinyin": "Tài xièxie nǐ le!"
+      },
+      {
+        "speaker": "passerby",
+        "vietnamese": "Không có gì! Chúc bạn đi đường an toàn!",
+        "chinese": "不客气！一路平安！",
+        "pinyin": "Bù kèqi! Yīlù píng'ān!"
+      }
+    ],
+    "cognates_used": [
+      "医院 (y viện)",
+      "人口 (nhân khẩu)",
+      "前面 (tiền diện -> phía trước)",
+      "后面 (hậu diện -> phía sau)",
+      "车站 (xa trạm -> ga)",
+      "出租车 (thử tư xa -> xe taxi)",
+      "路口 (lộ khẩu -> giao lộ)"
+    ],
+    "tips": [
+      "'不好意思' (bù hǎoyìsi) dùng khi muốn hỏi ai đó hoặc xin lỗi nhẹ - tương đương 'xin lỗi' hoặc 'làm phiền'.",
+      "'请问' (qǐngwèn) là cách lịch sự để bắt đầu câu hỏi, giống 'xin hỏi' trong tiếng Việt.",
+      "前面 (phía trước) và 后面 (phía sau) có tiền tố 前/后 rất dễ nhận biết theo Hán Việt.",
+      "'路口' (lộ khẩu) = giao lộ, '车站' (xa trạm) = ga xe buýt / ga tàu."
+    ]
+  },
+  {
+    "id": "scenario_005",
+    "title": "Nhận phòng tại khách sạn",
+    "title_zh": "在酒店办理入住",
+    "description": "Tình huống đến khách sạn để nhận phòng. Bạn sẽ học cách xuất trình hộ chiếu, hỏi về tiện nghi, giờ nhận trả phòng, và các dịch vụ của khách sạn.",
+    "hsk_level": 3,
+    "setting": "Quầy lễ tân khách sạn",
+    "characters": ["guest", "receptionist"],
+    "key_vocabulary": [
+      {
+        "vietnamese": "khách sạn",
+        "chinese": "酒店",
+        "pinyin": "jiǔdiàn",
+        "english": "hotel"
+      },
+      {
+        "vietnamese": "hộ chiếu",
+        "chinese": "护照",
+        "pinyin": "hùzhào",
+        "english": "passport"
+      },
+      {
+        "vietnamese": "phòng",
+        "chinese": "房间",
+        "pinyin": "fángjiān",
+        "english": "room"
+      },
+      {
+        "vietnamese": "đặt phòng",
+        "chinese": "预订",
+        "pinyin": "yùdìng",
+        "english": "reservation"
+      },
+      {
+        "vietnamese": "phòng đôi",
+        "chinese": "双人间",
+        "pinyin": "shuāngrénjiān",
+        "english": "double room"
+      },
+      {
+        "vietnamese": "phòng đơn",
+        "chinese": "单人间",
+        "pinyin": "dānrénjiān",
+        "english": "single room"
+      },
+      {
+        "vietnamese": "Wi-Fi",
+        "chinese": "无线网络",
+        "pinyin": "wúxiàn wǎngluò",
+        "english": "wireless network"
+      },
+      {
+        "vietnamese": "ăn sáng",
+        "chinese": "早餐",
+        "pinyin": "zǎocān",
+        "english": "breakfast"
+      },
+      {
+        "vietnamese": "trả phòng",
+        "chinese": "退房",
+        "pinyin": "tuìfáng",
+        "english": "check out"
+      },
+      {
+        "vietnamese": "thẻ phòng",
+        "chinese": "房卡",
+        "pinyin": "fángkǎ",
+        "english": "room key card"
+      }
+    ],
+    "sample_dialogue": [
+      {
+        "speaker": "guest",
+        "vietnamese": "Xin chào, tôi đã đặt phòng.",
+        "chinese": "你好，我订了房间。",
+        "pinyin": "Nǐ hǎo, wǒ dìng le fángjiān."
+      },
+      {
+        "speaker": "receptionist",
+        "vietnamese": "Vâng, xin vui lòng cho tôi xem hộ chiếu và tên đặt phòng.",
+        "chinese": "好的，请出示您的护照和预订姓名。",
+        "pinyin": "Hǎo de, qǐng chūshì nín de hùzhào hé yùdìng xìngmíng."
+      },
+      {
+        "speaker": "guest",
+        "vietnamese": "Đây là hộ chiếu của tôi. Tôi đặt phòng dưới tên Ming.",
+        "chinese": "这是我的护照。我预订的名字是明。",
+        "pinyin": "Zhè shì wǒ de hùzhào. Wǒ yùdìng de míngzì shì Míng."
+      },
+      {
+        "speaker": "receptionist",
+        "vietnamese": "Tìm thấy rồi. Phòng đôi, ba đêm, từ hôm nay đến ngày 15. Tổng cộng 750 tệ.",
+        "chinese": "找到了。双人间，三晚，从今天到十五号。一共七百五十块。",
+        "pinyin": "Zhǎodào le. Shuāngrénjiān, sān wǎn, cóng jīntiān dào shíwǔ hào. Yì gòng qībǎi wǔshí kuài."
+      },
+      {
+        "speaker": "guest",
+        "vietnamese": "Ăn sáng có bao gồm không?",
+        "chinese": "早餐包括了吗？",
+        "pinyin": "Zǎocān bāokuò le ma?"
+      },
+      {
+        "speaker": "receptionist",
+        "vietnamese": "Có, ăn sáng miễn phí từ sáu giờ đến chín giờ sáng, ở tầng ba.",
+        "chinese": "是的，免费早餐从早上六点到九点，在三楼。",
+        "pinyin": "Shì de, miǎnfèi zǎocān cóng zǎoshang liù diǎn dào jiǔ diǎn, zài sān lóu."
+      },
+      {
+        "speaker": "guest",
+        "vietnamese": "Wi-Fi mật khẩu là gì?",
+        "chinese": "无线网络密码是多少？",
+        "pinyin": "Wúxiàn wǎngluò mìmǎ shì duōshao?"
+      },
+      {
+        "speaker": "receptionist",
+        "vietnamese": "Mật khẩu Wi-Fi là phòng số cộng 8888. Ví dụ phòng 502 thì mật khẩu là 5028888.",
+        "chinese": "WiFi密码是房号加8888。比如502房就是5028888。",
+        "pinyin": "WiFi mìmǎ shì fánghào jiā 8888. Bǐrú 502 fáng jiùshì 5028888."
+      },
+      {
+        "speaker": "guest",
+        "vietnamese": "Giờ trả phòng là mấy giờ?",
+        "chinese": "退房时间是几点？",
+        "pinyin": "Tuìfáng shíjiān shì jǐ diǎn?"
+      },
+      {
+        "speaker": "receptionist",
+        "vietnamese": "Trước 12 giờ trưa. Đây là thẻ phòng của ngài, ngài ở tầng năm, phòng 502.",
+        "chinese": "中午十二点之前。这是您的房卡，您在五楼502房。",
+        "pinyin": "Zhōngwǔ shí'èr diǎn zhīqián. Zhè shì nín de fángkǎ, nín zài wǔ lóu wǔ líng'èr fáng."
+      },
+      {
+        "speaker": "guest",
+        "vietnamese": "Cảm ơn! Tầng hầm có chỗ đậu xe không?",
+        "chinese": "谢谢！地下停车场在哪里？",
+        "pinyin": "Xièxie! Dìxià tíngchē chǎng zài nǎlǐ?"
+      },
+      {
+        "speaker": "receptionist",
+        "vietnamese": "Có, qua thang máy phía sau, xuống tầng B1.",
+        "chinese": "有的，从后面的电梯下去，到B1层。",
+        "pinyin": "Yǒu de, cóng hòumiàn de diàntī xiàqù, dào B1 céng."
+      }
+    ],
+    "cognates_used": [
+      "护照 (hộ chiếu)",
+      "房间 (phòng gian)",
+      "预订 (định trước -> đặt trước)",
+      "早餐 (tảo can -> ăn sáng)",
+      "免费 (miễn phí)",
+      "密码 (mật mã)",
+      "时间 (thời gian)",
+      "电梯 (điện thang -> thang máy)",
+      "停车场 (đỗ xe trường -> bãi đỗ xe)"
+    ],
+    "tips": [
+      "Ở Trung Quốc, bạn bắt buộc phải xuất trình hộ chiếu khi nhận phòng khách sạn. Đây là quy định của công an.",
+      "'退房' (tuìfáng) có nghĩa là trả phòng. Giờ trả phòng thông thường là trước 12h trưa.",
+      "很多 (hěn duō) Hán Việt có trong khách sạn: 护照, 房间, 时间, 免费, 密码...",
+      "Mật khẩu Wi-Fi thường liên quan đến số phòng - hãy hỏi nhân viên lễ tân ngay khi nhận phòng."
+    ]
+  },
+  {
+    "id": "scenario_006",
+    "title": "Khám bệnh tại bệnh viện",
+    "title_zh": "在医院看病",
+    "description": "Tình huống đến bệnh viện Trung Quốc để khám bệnh. Bạn sẽ học cách mô tả triệu chứng, giao tiếp với bác sĩ, và mua thuốc.",
+    "hsk_level": 3,
+    "setting": "Phòng khám bệnh viện",
+    "characters": ["patient", "doctor"],
+    "key_vocabulary": [
+      {
+        "vietnamese": "bệnh viện",
+        "chinese": "医院",
+        "pinyin": "yīyuàn",
+        "english": "hospital"
+      },
+      {
+        "vietnamese": "bác sĩ",
+        "chinese": "医生",
+        "pinyin": "yīshēng",
+        "english": "doctor"
+      },
+      {
+        "vietnamese": "ốm",
+        "chinese": "不舒服",
+        "pinyin": "bù shūfu",
+        "english": "uncomfortable, not feeling well"
+      },
+      {
+        "vietnamese": "đau đầu",
+        "chinese": "头疼",
+        "pinyin": "tóuténg",
+        "english": "headache"
+      },
+      {
+        "vietnamese": "sốt",
+        "chinese": "发烧",
+        "pinyin": "fāshāo",
+        "english": "fever"
+      },
+      {
+        "vietnamese": "ho",
+        "chinese": "咳嗽",
+        "pinyin": "késou",
+        "english": "cough"
+      },
+      {
+        "vietnamese": "uống thuốc",
+        "chinese": "吃药",
+        "pinyin": "chī yào",
+        "english": "take medicine"
+      },
+      {
+        "vietnamese": "thuốc",
+        "chinese": "药",
+        "pinyin": "yào",
+        "english": "medicine"
+      },
+      {
+        "vietnamese": "triệu chứng",
+        "chinese": "症状",
+        "pinyin": "zhèngzhuàng",
+        "english": "symptoms"
+      },
+      {
+        "vietnamese": "kê đơn",
+        "chinese": "开药",
+        "pinyin": "kāiyào",
+        "english": "prescribe medicine"
+      }
+    ],
+    "sample_dialogue": [
+      {
+        "speaker": "doctor",
+        "vietnamese": "Bạn哪里不舒服？",
+        "chinese": "你哪里不舒服？",
+        "pinyin": "Nǐ nǎlǐ bù shūfu?"
+      },
+      {
+        "speaker": "patient",
+        "vietnamese": "Tôi đau đầu và ho, có lẽ còn sốt nữa.",
+        "chinese": "我头疼，还咳嗽，可能发烧了。",
+        "pinyin": "Wǒ tóuténg, hái késou, kěnéng fāshāo le."
+      },
+      {
+        "speaker": "doctor",
+        "vietnamese": "Từ bao giờ rồi?",
+        "chinese": "从什么时候开始的？",
+        "pinyin": "Cóng shénme shíhou kāishǐ de?"
+      },
+      {
+        "speaker": "patient",
+        "vietnamese": "Từ hôm qua. Từ sáng tôi đã thấy không được khỏe.",
+        "chinese": "从昨天开始。今天早上就不舒服。",
+        "pinyin": "Cóng zuótiān kāishǐ. Jīntiān zǎoshang jiù bù shūfu."
+      },
+      {
+        "speaker": "doctor",
+        "vietnamese": "Mồm mở ra, cho tôi xem lưỡi. Có sổ mũi không?",
+        "chinese": "张嘴，让我看看舌头。流鼻涕吗？",
+        "pinyin": "Zhāng zuǐ, ràng wǒ kànkan shétou. Liú bítì ma?"
+      },
+      {
+        "speaker": "patient",
+        "vietnamese": "Có, sổ mũi nhiều. Còn đau họng nữa.",
+        "chinese": "是的，鼻涕很多。喉咙也疼。",
+        "pinyin": "Shì de, bítì hěn duō. Hóulóng yě téng."
+      },
+      {
+        "speaker": "doctor",
+        "vietnamese": "Tôi nghĩ là cảm mạo (cảm lạnh). Tôi kê thuốc cho bạn nhé.",
+        "chinese": "我判断是感冒。我给你开药。",
+        "pinyin": "Wǒ pànduàn shì gǎnmào. Wǒ gěi nǐ kāiyào."
+      },
+      {
+        "speaker": "patient",
+        "vietnamese": "Tôi phải uống thuốc như thế nào?",
+        "chinese": "药怎么吃？",
+        "pinyin": "Yào zěnme chī?"
+      },
+      {
+        "speaker": "doctor",
+        "vietnamese": "Một ngày ba lần, một lần hai viên, sau khi ăn. Nhớ uống nhiều nước nhé.",
+        "chinese": "一天三次，一次两片，饭后吃。多喝水。",
+        "pinyin": "Yì tiān sān cì, yì cì liǎng piàn, fàn hòu chī. Duō hē shuǐ."
+      },
+      {
+        "speaker": "patient",
+        "vietnamese": "Tôi phải đến phòng thu thuốc ở đâu vậy?",
+        "chinese": "我去哪里取药？",
+        "pinyin": "Wǒ qù nǎlǐ qǔ yào?"
+      },
+      {
+        "speaker": "doctor",
+        "vietnamese": "Giữ giấy toa này, xuống tầng 1, phòng thu thuốc bên trái.",
+        "chinese": "拿着这张处方，到一楼左边取药。",
+        "pinyin": "Názhe zhè zhāng chǔfāng, dào yì lóu zuǒbiān qǔ yào."
+      }
+    ],
+    "cognates_used": [
+      "医院 (y viện)",
+      "医生 (y sinh)",
+      "症状 (chứng trượng -> triệu chứng)",
+      "处方 (xử phương -> toa thuốc)",
+      "感冒 (cảm mạo -> cảm mạo / cảm lạnh)",
+      "治疗 (trị liệu)",
+      "护士 (hộ sĩ -> y tá)"
+    ],
+    "tips": [
+      "'吃药' (chī yào) dùng để chỉ việc uống thuốc - lưu ý dùng '吃' (ăn) chứ không phải '喝' (uống).",
+      "Ở bệnh viện Trung Quốc, quy trình thường là:挂号 (đăng ký) -> 看病 (khám bệnh) -> 取药 (lấy thuốc).",
+      "Nhiều từ y tế trong tiếng Trung có nguồn gốc Hán Việt: 医院, 医生, 症状, 处方, 感冒.",
+      "'感冒' (cảm mạo) là từ Hán Việt quen thuộc - nghĩa là cảm lạnh."
+    ]
+  },
+  {
+    "id": "scenario_007",
+    "title": "Đi tàu điện ngầm",
+    "title_zh": "坐地铁",
+    "description": "Tình huống đi tàu điện ngầm tại thành phố Trung Quốc. Bạn sẽ học cách mua vé, tìm tuyến đường, và hỏi nhân viên hướng dẫn.",
+    "hsk_level": 3,
+    "setting": "Nhà ga tàu điện ngầm",
+    "characters": ["passenger", "station_staff"],
+    "key_vocabulary": [
+      {
+        "vietnamese": "tàu điện ngầm",
+        "chinese": "地铁",
+        "pinyin": "dìtiě",
+        "english": "subway/metro"
+      },
+      {
+        "vietnamese": "vé",
+        "chinese": "票",
+        "pinyin": "piào",
+        "english": "ticket"
+      },
+      {
+        "vietnamese": "nhà ga",
+        "chinese": "车站",
+        "pinyin": "chēzhàn",
+        "english": "station"
+      },
+      {
+        "vietnamese": "tuyến",
+        "chinese": "号线",
+        "pinyin": "hào xiàn",
+        "english": "line"
+      },
+      {
+        "vietnamese": "chuyển tuyến",
+        "chinese": "换乘",
+        "pinyin": "huànchéng",
+        "english": "transfer lines"
+      },
+      {
+        "vietnamese": "thẻ thông hành",
+        "chinese": "交通卡",
+        "pinyin": "jiāotōng kǎ",
+        "english": "transport card"
+      },
+      {
+        "vietnamese": "đi bộ",
+        "chinese": "步行",
+        "pinyin": "bùxíng",
+        "english": "walk"
+      },
+      {
+        "vietnamese": "phút",
+        "chinese": "分钟",
+        "pinyin": "fēnzhōng",
+        "english": "minutes"
+      },
+      {
+        "vietnamese": "thang cuốn",
+        "chinese": "自动扶梯",
+        "pinyin": "zìdòng fútī",
+        "english": "escalator"
+      },
+      {
+        "vietnamese": "ra cửa số mấy",
+        "chinese": "从几号口出",
+        "pinyin": "cóng jǐ hào kǒu chū",
+        "english": "exit from which gate"
+      }
+    ],
+    "sample_dialogue": [
+      {
+        "speaker": "passenger",
+        "vietnamese": "Xin hỏi, đến Bắc Kinh Đại học đi tàu điện ngầm tuyến nào?",
+        "chinese": "请问，去北京大学坐几号线？",
+        "pinyin": "Qǐngwèn, qù Běijīng Dàxué zuò jǐ hào xiàn?"
+      },
+      {
+        "speaker": "station_staff",
+        "vietnamese": "Bạn đi tuyến 2, chuyển tuyến ở trạm Đông Tứ, sau đó đổi sang tuyến 5.",
+        "chinese": "您坐二号线，在东四站换乘五号线。",
+        "pinyin": "Nín zuò èr hào xiàn, zài Dōngsì zhàn huànchéng wǔ hào xiàn."
+      },
+      {
+        "speaker": "passenger",
+        "vietnamese": "Tôi phải đổi ở trạm nào?",
+        "chinese": "我应该在哪一站换乘？",
+        "pinyin": "Wǒ yīnggāi zài nǎ yí zhàn huànchéng?"
+      },
+      {
+        "speaker": "station_staff",
+        "vietnamese": "Bạn đi tuyến 2 được 3 trạm, đến Đông Tứ thì chuyển sang tuyến 5. Đi thêm 5 trạm nữa là đến.",
+        "chinese": "坐二号线三站，到东四换乘五号线。再坐五站就到了。",
+        "pinyin": "Zuò èr hào xiàn sān zhàn, dào Dōngsì huànchéng wǔ hào xiàn. Zài zuò wǔ zhàn jiù dào le."
+      },
+      {
+        "speaker": "passenger",
+        "vietnamese": "Khoảng bao lâu?",
+        "chinese": "大概多长时间？",
+        "pinyin": "Dàgài duō cháng shíjiān?"
+      },
+      {
+        "speaker": "station_staff",
+        "vietnamese": "Khoảng 40 phút. Bạn có thể dùng thẻ giao thông hoặc mua vé tự động.",
+        "chinese": "大概四十分钟。您可以使用交通卡或者买自动售票机。",
+        "pinyin": "Dàgài sìshí fēnzhōng. Nín kěyǐ shǐyòng jiāotōng kǎ huòzhě zàidòng shòupiào jī."
+      },
+      {
+        "speaker": "passenger",
+        "vietnamese": "Vé một chiều bao nhiêu tiền?",
+        "chinese": "单程票多少钱？",
+        "pinyin": "Dānchéng piào duōshao qián?"
+      },
+      {
+        "speaker": "station_staff",
+        "vietnamese": "Từ trạm này đến Bắc Đại là năm tệ. Bạn cũng có thể mua thẻ thông hành để tiện hơn.",
+        "chinese": "到北大五块。您也可以办一卡通更方便。",
+        "pinyin": "Dào Běidà wǔ kuài. Nín yě kěyǐ bàn yī kǎ tōng gèng fāngbiàn."
+      }
+    ],
+    "cognates_used": [
+      "地铁 (địa鐵 -> tàu điện ngầm)",
+      "车站 (xa trạm -> ga)",
+      "交通 (giao thông)",
+      "步行 (bộ hành -> đi bộ)",
+      "时间 (thời gian)",
+      "大学 (đại học)",
+      "自动 (tự động)"
+    ],
+    "tips": [
+      "Ở các thành phố lớn của Trung Quốc, bạn có thể dùng WeChat hoặc Alipay để quét mã vào tàu điện ngầm.",
+      "'号线' (hào xiàn) = tuyến số. Ví dụ: '二号线' = tuyến số 2.",
+      "交通卡 (giao thông thẻ) là thẻ thông hành - mua một lần, nạp tiền nhiều lần, rất tiện lợi.",
+      "注意: '地铁' (địa sắt) nghĩa đen là 'sắt dưới đất', tương đương subway/metro."
+    ]
+  },
+  {
+    "id": "scenario_008",
+    "title": "Giao dịch tại ngân hàng",
+    "title_zh": "在银行办理业务",
+    "description": "Tình huống đến ngân hàng Trung Quốc để mở tài khoản, chuyển tiền, và rút tiền. Bạn sẽ học các từ vựng về tài chính ngân hàng.",
+    "hsk_level": 4,
+    "setting": "Chi nhánh ngân hàng",
+    "characters": ["customer", "bank_teller"],
+    "key_vocabulary": [
+      {
+        "vietnamese": "ngân hàng",
+        "chinese": "银行",
+        "pinyin": "yínháng",
+        "english": "bank"
+      },
+      {
+        "vietnamese": "mở tài khoản",
+        "chinese": "开户",
+        "pinyin": "kāihù",
+        "english": "open an account"
+      },
+      {
+        "vietnamese": "tài khoản",
+        "chinese": "账户",
+        "pinyin": "zhànghù",
+        "english": "account"
+      },
+      {
+        "vietnamese": "chuyển tiền",
+        "chinese": "转账",
+        "pinyin": "zhuǎnzhàng",
+        "english": "transfer money"
+      },
+      {
+        "vietnamese": "rút tiền",
+        "chinese": "取钱",
+        "pinyin": "qǔqián",
+        "english": "withdraw money"
+      },
+      {
+        "vietnamese": "gửi tiền",
+        "chinese": "存款",
+        "pinyin": "cúnkuǎn",
+        "english": "deposit money"
+      },
+      {
+        "vietnamese": "thẻ ngân hàng",
+        "chinese": "银行卡",
+        "pinyin": "yín háng kǎ",
+        "english": "bank card"
+      },
+      {
+        "vietnamese": "mật khẩu",
+        "chinese": "密码",
+        "pinyin": "mìmǎ",
+        "english": "password"
+      },
+      {
+        "vietnamese": "tiền mặt",
+        "chinese": "现金",
+        "pinyin": "xiànjīn",
+        "english": "cash"
+      },
+      {
+        "vietnamese": "đổi tiền",
+        "chinese": "换汇",
+        "pinyin": "huànhuì",
+        "english": "exchange currency"
+      }
+    ],
+    "sample_dialogue": [
+      {
+        "speaker": "customer",
+        "vietnamese": "Xin chào, tôi muốn mở tài khoản ngân hàng.",
+        "chinese": "你好，我想开个银行账户。",
+        "pinyin": "Nǐ hǎo, wǒ xiǎng kāi gè yínháng zhànghù."
+      },
+      {
+        "speaker": "bank_teller",
+        "vietnamese": "Vâng, ngài cần tài khoản tiết kiệm hay tài khoản thanh khoản?",
+        "chinese": "好的，您需要储蓄账户还是结算账户？",
+        "pinyin": "Hǎo de, nín xūyào chǔxù zhànghù háishì jiésuàn zhànghù?"
+      },
+      {
+        "speaker": "customer",
+        "vietnamese": "Tài khoản tiết kiệm là được rồi. Tôi cần mang theo giấy tờ gì?",
+        "chinese": "储蓄账户就好。我需要带什么证件？",
+        "pinyin": "Chǔxù zhànghù jiù hǎo. Wǒ xūyào dài shénme zhèngjiàn?"
+      },
+      {
+        "speaker": "bank_teller",
+        "vietnamese": "Ngài cần hộ chiếu và thẻ tạm trú. Nếu có giấy tờ lao động thì tốt hơn.",
+        "chinese": "您需要护照和居住证。有工作证明更好。",
+        "pinyin": "Nín xūyào hùzhào hé jūzhùzhèng. Yǒu gōngzuò zhèngmíng gèng hǎo."
+      },
+      {
+        "speaker": "customer",
+        "vietnamese": "Đây là hộ chiếu và thẻ tạm trú của tôi. Tôi muốn mở thẻ ATM kèm theo.",
+        "chinese": "这是我的护照和居住证。我想办一张银行卡。",
+        "pinyin": "Zhè shì wǒ de hùzhào hé jūzhùzhèng. Wǒ xiǎng bàn yì zhāng yínháng kǎ."
+      },
+      {
+        "speaker": "bank_teller",
+        "vietnamese": "Vâng. Ngài cần đặt mật khẩu sáu chữ số. Sau đó sẽ có phí thường niên năm mươi tệ.",
+        "chinese": "好的。您需要设置六位密码。每年有五十块年费。",
+        "pinyin": "Hǎo de. Nín xūyào shèzhì liù wèi mìmǎ. Měi nián yǒu wǔshí kuài niánfèi."
+      },
+      {
+        "speaker": "customer",
+        "vietnamese": "Có thể liên kết với WeChat Pay được không?",
+        "chinese": "可以绑定微信支付吗？",
+        "pinyin": "Kěyǐ biàndìng Wēixìn zhīfù ma?"
+      },
+      {
+        "speaker": "bank_teller",
+        "vietnamese": "Được. Sau khi mở tài khoản, ngài có thể dùng ứng dụng ngân hàng để liên kết ngay.",
+        "chinese": "可以。开户后您可以用手机银行APP绑定。",
+        "pinyin": "Kěyǐ. Kāihù hòu nín kěyǐ yòng shǒujī yínháng APP biàndìng."
+      }
+    ],
+    "cognates_used": [
+      "银行 (ngân hàng)",
+      "账户 (tàng hộ -> tài khoản)",
+      "存款 (tồn khoản -> tiền gửi)",
+      "现金 (hiện kim -> tiền mặt)",
+      "密码 (mật mã)",
+      "证件 (chứng kiện -> giấy tờ chứng minh)",
+      "工作 (công tác -> công việc)",
+      "储蓄 (tiết kiệm -> tiết kiệm)",
+      "结算 (toán toán -> thanh toán)"
+    ],
+    "tips": [
+      "Ở Trung Quốc, mở tài khoản ngân hàng nước ngoài cần có hộ chiếu + thẻ tạm trú (居住证).",
+      "WeChat Pay và Alipay là hai phương thức thanh toán điện tử phổ biến nhất. Hầu như mọi cửa hàng đều chấp nhận.",
+      "Ngân hàng Trung Quốc thường mở cửa từ 9h-17h, thứ Hai đến Thứ Sáu. Cuối tuần có thể đóng cửa.",
+      "Rất nhiều từ vựng ngân hàng là từ Hán Việt: 银行, 账户, 存款, 现金, 密码, 证件."
+    ]
+  },
+  {
+    "id": "scenario_009",
+    "title": "Gọi điện hẹn gặp",
+    "title_zh": "打电话预约",
+    "description": "Tình huống gọi điện thoại để đặt lịch hẹn tại nhà hàng, bác sĩ, hoặc salon. Bạn sẽ học cách nói chuyện qua điện thoại bằng tiếng Trung.",
+    "hsk_level": 3,
+    "setting": "Cuộc gọi điện thoại",
+    "characters": ["caller", "receptionist"],
+    "key_vocabulary": [
+      {
+        "vietnamese": "điện thoại",
+        "chinese": "电话",
+        "pinyin": "diànhuà",
+        "english": "telephone"
+      },
+      {
+        "vietnamese": "đặt lịch hẹn",
+        "chinese": "预约",
+        "pinyin": "yùyuē",
+        "english": "make an appointment"
+      },
+      {
+        "vietnamese": "ngày mai",
+        "chinese": "明天",
+        "pinyin": "míngtiān",
+        "english": "tomorrow"
+      },
+      {
+        "vietnamese": "hôm qua",
+        "chinese": "昨天",
+        "pinyin": "zuótiān",
+        "english": "yesterday"
+      },
+      {
+        "vietnamese": "vào lúc mấy giờ",
+        "chinese": "几点",
+        "pinyin": "jǐ diǎn",
+        "english": "at what time"
+      },
+      {
+        "vietnamese": "có thời gian không",
+        "chinese": "有时间吗",
+        "pinyin": "yǒu shíjiān ma",
+        "english": "is there available time"
+      },
+      {
+        "vietnamese": "xác nhận",
+        "chinese": "确认",
+        "pinyin": "quènrèn",
+        "english": "confirm"
+      },
+      {
+        "vietnamese": "hủy hẹn",
+        "chinese": "取消",
+        "pinyin": "qǔxiāo",
+        "english": "cancel"
+      },
+      {
+        "vietnamese": "số điện thoại",
+        "chinese": "电话号码",
+        "pinyin": "diànhuà hàomǎ",
+        "english": "phone number"
+      },
+      {
+        "vietnamese": "tên",
+        "chinese": "姓名",
+        "pinyin": "xìngmíng",
+        "english": "name"
+      }
+    ],
+    "sample_dialogue": [
+      {
+        "speaker": "caller",
+        "vietnamese": "Alô, xin chào! Tôi muốn đặt lịch hẹn.",
+        "chinese": "你好，我想预约一下。",
+        "pinyin": "Nǐ hǎo, wǒ xiǎng yùyuē yíxià."
+      },
+      {
+        "speaker": "receptionist",
+        "vietnamese": "Xin chào! Ngài muốn hẹn với ai? Với bác sĩ hay dịch vụ gì?",
+        "chinese": "您好！请问您要预约什么？",
+        "pinyin": "Nín hǎo! Qǐngwèn nín yào yùyuē shénme?"
+      },
+      {
+        "speaker": "caller",
+        "vietnamese": "Tôi muốn đặt bàn ăn cho bốn người vào thứ Bảy này.",
+        "chinese": "我想订一个四人位的桌子，这周六。",
+        "pinyin": "Wǒ xiǎng dìng yí gè sìrén wèi de zhuōzi, zhè zhōuliù."
+      },
+      {
+        "speaker": "receptionist",
+        "vietnamese": "Thứ Bảy này à? Vào lúc mấy giờ?",
+        "chinese": "这周六？几点？",
+        "pinyin": "Zhè zhōuliù? Jǐ diǎn?"
+      },
+      {
+        "speaker": "caller",
+        "vietnamese": "Khoảng 7 giờ tối được không?",
+        "chinese": "晚上七点可以吗？",
+        "pinyin": "Wǎnshang qī diǎn kěyǐ ma?"
+      },
+      {
+        "speaker": "receptionist",
+        "vietnamese": "Để tôi xem... 7 giờ tối có chỗ. Ngài có yêu cầu đặc biệt gì không?",
+        "chinese": "我查一下……七点有位置。您有什么特殊要求吗？",
+        "pinyin": "Wǒ chá yíxià... qī diǎn yǒu wèizhi. Nín yǒu shénme tèshū yāoqiú ma?"
+      },
+      {
+        "speaker": "caller",
+        "vietnamese": "Tôi muốn chỗ gần cửa sổ. Tên tôi là Minh, số điện thoại 138-XXXX-XXXX.",
+        "chinese": "我想要靠窗的位置。我叫明，电话是138-XXXX-XXXX。",
+        "pinyin": "Wǒ xiǎng yào kào chuāng de wèizhi. Wǒ jiào Míng, diànhuà shì 138-XXXX-XXXX."
+      },
+      {
+        "speaker": "receptionist",
+        "vietnamese": "Được rồi, đã đặt cho ngài. Thứ Bảy này, 7 giờ tối, bốn người, chỗ gần cửa sổ. Có cần xác nhận lại không?",
+        "chinese": "好的，给您订好了。这周六晚上七点，四人，靠窗。需要发短信确认吗？",
+        "pinyin": "Hǎo de, gěi nín dìng hǎo le. Zhè zhōuliù wǎnshang qī diǎn, sì rén, kào chuāng. Xūyào fā duǎnxìn quèrèn ma?"
+      },
+      {
+        "speaker": "caller",
+        "vietnamese": "Cảm ơn! Nếu tôi cần hủy thì gọi trước bao lâu?",
+        "chinese": "谢谢！如果我取消的话需要提前多久？",
+        "pinyin": "Xièxie! Rúguǒ wǒ qǔxiāo de huà xūyào tíqián duō jiǔ?"
+      },
+      {
+        "speaker": "receptionist",
+        "vietnamese": "Hủy trước sáu tiếng là được. Chúc ngài có một ngày tốt lành!",
+        "chinese": "提前六小时取消就好。祝您愉快！",
+        "pinyin": "Tíqián liù xiǎoshí qǔxiāo jiù hǎo. Zhù nín yúkuài!"
+      }
+    ],
+    "cognates_used": [
+      "电话 (điện thoại)",
+      "预约 (dự ước -> đặt hẹn)",
+      "时间 (thời gian)",
+      "确认 (xác nhận)",
+      "取消 (takai -> hủy bỏ)",
+      "姓名 (tánh danh -> họ tên)",
+      "号码 (hào mã -> số)",
+      "短信 (đản tin -> tin nhắn)",
+      "要求 (yêu cầu)"
+    ],
+    "tips": [
+      "Khi gọi điện trong tiếng Trung, bắt đầu bằng '你好' (Nǐ hǎo) và giới thiệu lý do gọi ngay sau đó.",
+      "'预约' (yùyuē) là từ Hán Việt dùng cho cả đặt lịch hẹn bác sĩ và đặt bàn nhà hàng.",
+      "Để đọc số điện thoại, đọc từng chữ số một: 1(bāng), 3(sān), 8(bā)...",
+      "Lưu ý: 取消 (qǔxiāo) trong tiếng Trung nghĩa là 'hủy', không phải 'takai' như tiếng Nhật."
+    ]
+  },
+  {
+    "id": "scenario_010",
+    "title": "Phỏng vấn xin việc",
+    "title_zh": "工作面试",
+    "description": "Tình huống tham gia buổi phỏng vấn xin việc tại một công ty Trung Quốc. Bạn sẽ học cách giới thiệu bản thân, trình bày kinh nghiệm, và trả lời các câu hỏi phỏng vấn phổ biến.",
+    "hsk_level": 5,
+    "setting": "Phòng họp công ty",
+    "characters": ["candidate", "interviewer"],
+    "key_vocabulary": [
+      {
+        "vietnamese": "phỏng vấn",
+        "chinese": "面试",
+        "pinyin": "miànshì",
+        "english": "interview"
+      },
+      {
+        "vietnamese": "kinh nghiệm",
+        "chinese": "经验",
+        "pinyin": "jīngyàn",
+        "english": "experience"
+      },
+      {
+        "vietnamese": "chuyên môn",
+        "chinese": "专业",
+        "pinyin": "zhuānyè",
+        "english": "major/specialty"
+      },
+      {
+        "vietnamese": "công ty",
+        "chinese": "公司",
+        "pinyin": "gōngsī",
+        "english": "company"
+      },
+      {
+        "vietnamese": "năng lực",
+        "chinese": "能力",
+        "pinyin": "nénglì",
+        "english": "ability"
+      },
+      {
+        "vietnamese": "thắt chặt",
+        "chinese": "团队合作",
+        "pinyin": "tuánduì hézuò",
+        "english": "teamwork"
+      },
+      {
+        "vietnamese": "mục tiêu",
+        "chinese": "目标",
+        "pinyin": "mùbiāo",
+        "english": "goal/target"
+      },
+      {
+        "vietnamese": "lương",
+        "chinese": "工资",
+        "pinyin": "gōngzī",
+        "english": "salary"
+      },
+      {
+        "vietnamese": "thành tích",
+        "chinese": "成绩",
+        "pinyin": "chéngjì",
+        "english": "achievement"
+      },
+      {
+        "vietnamese": "kỹ năng",
+        "chinese": "技能",
+        "pinyin": "jìnéng",
+        "english": "skill"
+      }
+    ],
+    "sample_dialogue": [
+      {
+        "speaker": "interviewer",
+        "vietnamese": "Xin chào, tôi là Trương Tổng. Ngài xin vị trí nào?",
+        "chinese": "您好，我是张总。您应聘哪个职位？",
+        "pinyin": "Nín hǎo, wǒ shì Zhāng zǒng. Nín yìngpìn nǎge zhíwèi?"
+      },
+      {
+        "speaker": "candidate",
+        "vietnamese": "Xin chào Trương Tổng. Tôi ứng tuyển vị trí giáo viên tiếng Trung.",
+        "chinese": "张总您好。我应聘中文老师的职位。",
+        "pinyin": "Zhāng zǒng nín hǎo. Wǒ yìngpìn Zhōngwén lǎoshī de zhíwèi."
+      },
+      {
+        "speaker": "interviewer",
+        "vietnamese": "Tốt. Hãy giới thiệu ngắn gọn về bản thân.",
+        "chinese": "好的，请先简单介绍一下自己。",
+        "pinyin": "Hǎo de, qǐng xiān jiǎndān jièshào yíxià zìjǐ."
+      },
+      {
+        "speaker": "candidate",
+        "vietnamese": "Tôi tên là Minh, người Việt Nam. Tôi tốt nghiệp Đại học Bắc Kinh, chuyên ngành Ngôn ngữ Trung Quốc. Tôi có ba năm kinh nghiệm dạy tiếng Trung.",
+        "chinese": "我叫明，来自越南。我毕业于北京大学，专业是中国语言文学。我有三年的中文教学经验。",
+        "pinyin": "Wǒ jiào Míng, láizì Yuènán. Wǒ bìyè yú Běijīng Dàxué, zhuānyè shì Zhōngguó yǔyán wénxué. Wǒ yǒu sān nián de Zhōngwén jiāoxué jīngyàn."
+      },
+      {
+        "speaker": "interviewer",
+        "vietnamese": "Tại sao ngài lại muốn làm công việc này?",
+        "chinese": "您为什么想做这份工作？",
+        "pinyin": "Nín wèishénme xiǎng zuò zhè fèn gōngzuò?"
+      },
+      {
+        "speaker": "candidate",
+        "vietnamese": "Vì tôi là người Việt Nam, tôi hiểu khó khăn của người học tiếng Trung. Hơn nữa, từ Hán Việt giúp sinh viên Việt Nam học tiếng Trung dễ dàng hơn.",
+        "chinese": "因为我是越南人，我了解学中文的困难。而且，汉字词帮助越南学生更容易学习中文。",
+        "pinyin": "Yīnwèi wǒ shì Yuènán rén, wǒ liǎojiě xué Zhōngwén de kùnnan. Érqiě, Hànzì cí bāngzhù Yuènán xuéshēng gèng róngyì xuéxí Zhōngwén."
+      },
+      {
+        "speaker": "interviewer",
+        "vietnamese": "Câu trả lời rất hay! Ngài đánh giá khả năng giao tiếp của mình thế nào?",
+        "chinese": "回答得很好！您怎么评价自己的沟通能力？",
+        "pinyin": "Huídá de hěn hǎo! Nín zěnme píngjià zìjǐ de gōujiāo nénglì?"
+      },
+      {
+        "speaker": "candidate",
+        "vietnamese": "Tôi có thể giao tiếp lưu loát bằng ba thứ tiếng: tiếng Việt, tiếng Trung và tiếng Anh. Tôi tin rằng điều này rất có lợi cho công việc giảng dạy.",
+        "chinese": "我能用三种语言流利沟通：越南语、中文和英语。我认为这对教学工作很有帮助。",
+        "pinyin": "Wǒ néng yòng sān zhǒng yǔyán liúlì gōujiāo: Yuènán yǔ, Zhōngwén hé Yīngyǔ. Wǒ rènwéi zhè duì jiāoxué gōngzuò hěn yǒu bāngzhù."
+      },
+      {
+        "speaker": "interviewer",
+        "vietnamese": "Ngài mong đợi mức lương như thế nào?",
+        "chinese": "您期望的薪资是多少？",
+        "pinyin": "Nín qīwàng de xīnzī shì duōshao?"
+      },
+      {
+        "speaker": "candidate",
+        "vietnamese": "Tôi kỳ vọng mức lương tháng mười nghìn đến mười hai nghìn tệ, tùy thuộc vào phúc lợi.",
+        "chinese": "我希望月薪在一万到一万二千之间，具体看福利待遇。",
+        "pinyin": "Wǒ xīwàng yuèxīn zài yí wàn dào yí wàn èr qiān zhījiān, jùtǐ kàn fúlì dàiyù."
+      }
+    ],
+    "cognates_used": [
+      "面试 (diện thí -> phỏng vấn)",
+      "经验 (kinh nghiệm)",
+      "专业 (chuyên nghiệp -> chuyên ngành)",
+      "公司 (công ty)",
+      "能力 (năng lực)",
+      "目标 (mục tiêu)",
+      "成绩 (thành tích)",
+      "技能 (kỹ năng)",
+      "困难 (khó nan -> khó khăn)",
+      "语言 (ngôn ngữ)",
+      "学生 (học sinh)",
+      "大学 (đại học)",
+      "毕业 (tốt nghiệp -> ra trường)",
+      "帮助 (bàng trợ -> giúp đỡ)",
+      "工作 (công tác -> công việc)",
+      "困难 (khó nan -> khó khăn)"
+    ],
+    "tips": [
+      "'面试' (diện thị) nghĩa đen là 'thí vấn mặt đối mặt' - chính là phỏng vấn.",
+      "Khi trả lời phỏng vấn, dùng cấu trúc '因为...所以...' (bởi vì...nên...) để giải thích lý do.",
+      "Rất nhiều từ vựng trong phỏng vấn là từ Hán Việt quen thuộc: 经验, 能力, 目标, 成绩, 技能.",
+      "Hãy chuẩn bị '自我介绍' (tự giới thiệu) 2-3 phút bằng tiếng Trung trước khi đi phỏng vấn.",
+      "'张总' (Zhāng zǒng) - '总' (tổng) là cách gọi lịch sự đối với người đứng đầu, tương đương 'sếp/tổng giám đốc'."
+    ]
+  }
+]

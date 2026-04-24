@@ -1,0 +1,80 @@
+# Language Learning Assistant - Docker Compose
+#
+# Services:
+#   livekit-server  - Self-hosted LiveKit SFU (WebRTC media server)
+#   voice-agent     - Your bilingual Chinese tutor agent
+#
+# Quick start:
+#   make docker-up        # Start everything
+#   make docker-down      # Stop everything
+#   make docker-logs      # View logs
+#   make docker-agent-dev # Hot-reload agent for development
+
+services:
+  # ──────────────────────────────────────────────────────────────
+  # LiveKit Server (self-hosted SFU)
+  # ──────────────────────────────────────────────────────────────
+  livekit-server:
+    image: livekit/livekit-server:latest
+    container_name: livekit-server
+    restart: unless-stopped
+    ports:
+      # WebSocket signal server
+      - "7880:7880"
+      # TCP fallback for WebRTC
+      - "7881:7881"
+      # UDP port range for media (WebRTC)
+      - "60000-60100:60000-60100/udp"
+    environment:
+      # Dev mode uses default key/secret: devkey / secret
+      LIVEKIT_LOG_LEVEL: info
+    command:
+      - livekit-server
+      - --dev
+      - --bind
+      - "0.0.0.0"
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "-q", "http://localhost:7880"]
+      interval: 5s
+      timeout: 3s
+      retries: 3
+    networks:
+      - livekit
+
+  # ──────────────────────────────────────────────────────────────
+  # Voice Agent (your bilingual Chinese tutor)
+  # ──────────────────────────────────────────────────────────────
+  voice-agent:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: voice-agent
+    restart: unless-stopped
+    depends_on:
+      livekit-server:
+        condition: service_healthy
+    env_file:
+      - .env
+    environment:
+      # Self-hosted LiveKit server connection
+      LIVEKIT_URL: ws://livekit-server:7880
+      LIVEKIT_API_KEY: devkey
+      LIVEKIT_API_SECRET: secret
+      # Disable Redis for single-instance dev (not needed)
+      LIVEKIT_USE_EXTERNAL_IP: "false"
+    networks:
+      - livekit
+    # Health check endpoint defaults to port 8081
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "-q", "http://localhost:8081/"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 30s
+
+# ──────────────────────────────────────────────────────────────
+# Networks
+# ──────────────────────────────────────────────────────────────
+networks:
+  livekit:
+    driver: bridge

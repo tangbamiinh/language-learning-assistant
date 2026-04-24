@@ -1,0 +1,140 @@
+# =============================================================================
+# Hermes Agent Configuration — Chinese Language Tutor
+# =============================================================================
+# This config defines a friendly Mandarin Chinese tutor agent specialized in
+# teaching Vietnamese speakers via Sino-Vietnamese (Hán Việt) cognates.
+#
+# Place alongside your .env file (which should contain OPENROUTER_API_KEY).
+# =============================================================================
+
+# =============================================================================
+# Model Configuration
+# =============================================================================
+model:
+  # Primary model: Qwen3.5-9B via OpenRouter
+  default: "qwen/qwen3.5-9b"
+  provider: "openrouter"
+  base_url: "https://openrouter.ai/api/v1"
+  # api_key is read from OPENROUTER_API_KEY in .env
+
+# =============================================================================
+# SOUL.md — Agent Identity
+# =============================================================================
+# Hermes reads SOUL.md from ~/.hermes/SOUL.md (or ./SOUL.md in the workspace).
+# For this Chinese tutor agent, the content should be:
+#
+# ---
+# applyTo: '**'
+# ---
+#
+# # Teacher Min (小明) — Your Chinese Tutor
+#
+# You are Teacher Min (小明), a warm, patient, and encouraging Mandarin Chinese
+# tutor. You specialize in helping Vietnamese speakers learn Chinese by leveraging
+# the ~60% Sino-Vietnamese (Hán Việt) vocabulary overlap.
+#
+# ## Teaching Style
+# - Always lead with encouragement and celebrate small wins
+# - Use Sino-Vietnamese cognates as memory anchors when introducing new vocabulary
+# - Explain grammar patterns clearly with side-by-side Vietnamese ↔ Chinese comparisons
+# - Provide pinyin, characters (汉字), and Vietnamese Hán Việt readings together
+# - Keep responses conversational — balance instruction with practice
+# - Gently correct pronunciation and tone errors with phonetic guidance
+# - Adapt difficulty to the student's level based on their progress
+#
+# ## Language Policy
+# - Default response language: Vietnamese (to maximize comprehension)
+# - Introduce Chinese terms with full annotations (pinyin + characters + Hán Việt)
+# - Switch to Chinese-only prompts during practice mode when requested
+# - Never assume fluency — always provide context
+#
+# ## Core Skills
+# - **Sino-Vietnamese vocabulary**: Highlight Hán Việt ↔ 汉语 cognate pairs
+# - **Pronunciation coaching**: Tone patterns, pinyin initials/finals, minimal pairs
+# - **Grammar lessons**: Sentence structure, particles, measure words, word order
+# - **Role-play conversations**: Practical scenarios (ordering food, asking directions)
+# - **Progress tracking**: Remember what the student has learned and review strategically
+#
+# ## Tone
+# Friendly, supportive, and slightly playful. Think of a beloved high school teacher
+# who makes learning feel like a conversation with a knowledgeable friend. Use light
+# humor, but never at the student's expense.
+# ---
+#
+# =============================================================================
+# Skills Configuration
+# =============================================================================
+skills:
+  # Nudge the agent to create new skills after completing complex teaching tasks
+  creation_nudge_interval: 20
+
+  # External skills directory — points to project-local teaching skills
+  external_dirs:
+    - "./src/skills/"
+
+# =============================================================================
+# Persistent Memory
+# =============================================================================
+# Tracks student progress, weak areas, and learned vocabulary across sessions.
+memory:
+  # Agent's personal notes: teaching progress, learned vocabulary, student weak spots
+  memory_enabled: true
+
+  # User profile: learning goals, preferred topics, communication preferences
+  user_profile_enabled: true
+
+  # Memory for teaching notes — vocabulary mastered, areas needing review
+  memory_char_limit: 3300   # ~1200 tokens for detailed progress tracking
+
+  # User profile — learning preferences and style
+  user_char_limit: 1375     # ~500 tokens
+
+  # Remind the agent to save progress notes every 8 user turns
+  nudge_interval: 8
+
+  # Give the agent a turn to save progress before session ends
+  flush_min_turns: 4
+
+# =============================================================================
+# Agent Behavior
+# =============================================================================
+agent:
+  # Allow more turns for teaching sessions with practice exercises
+  max_turns: 60
+
+  # Balanced reasoning for pedagogical responses
+  reasoning_effort: "medium"
+
+  # Teaching-focused personalities
+  personalities:
+    helpful: "You are a patient Chinese tutor. Explain concepts clearly with examples and Hán Việt cognates."
+    concise: "You are a concise Chinese tutor. Give direct answers with minimal Chinese annotations."
+    teacher: "You are an enthusiastic Chinese teacher. Use lots of examples, cognates, and practice prompts."
+    encouraging: "You are an encouraging Chinese tutor. Praise progress, gently correct errors, and keep the mood light."
+    exam: "You are a Chinese exam proctor. Ask structured questions, grade responses strictly, and provide detailed feedback."
+
+# =============================================================================
+# Terminal Configuration
+# =============================================================================
+terminal:
+  backend: "local"
+  cwd: "."
+  timeout: 180
+
+# =============================================================================
+# Context Compression
+# =============================================================================
+compression:
+  enabled: true
+  threshold: 0.50
+  target_ratio: 0.20
+  protect_last_n: 20
+
+# =============================================================================
+# Display Settings
+# =============================================================================
+display:
+  tool_progress: "new"
+  streaming: true
+  compact: false
+  show_reasoning: false

@@ -1,0 +1,2774 @@
+[
+  {
+    "vietnamese": "học sinh",
+    "chinese_traditional": "學生",
+    "chinese_simplified": "学生",
+    "pinyin": "xuéshēng",
+    "english": "student",
+    "hsk_level": 1,
+    "category": "education"
+  },
+  {
+    "vietnamese": "gia đình",
+    "chinese_traditional": "家庭",
+    "chinese_simplified": "家庭",
+    "pinyin": "jiātíng",
+    "english": "family",
+    "hsk_level": 1,
+    "category": "family"
+  },
+  {
+    "vietnamese": "mẫu thân",
+    "chinese_traditional": "母親",
+    "chinese_simplified": "母亲",
+    "pinyin": "mǔqīn",
+    "english": "mother",
+    "hsk_level": 1,
+    "category": "family"
+  },
+  {
+    "vietnamese": "phụ mẫu",
+    "chinese_traditional": "父母",
+    "chinese_simplified": "父母",
+    "pinyin": "fùmǔ",
+    "english": "parents",
+    "hsk_level": 2,
+    "category": "family"
+  },
+  {
+    "vietnamese": "phụ thân",
+    "chinese_traditional": "父親",
+    "chinese_simplified": "父亲",
+    "pinyin": "fùqīn",
+    "english": "father",
+    "hsk_level": 1,
+    "category": "family"
+  },
+  {
+    "vietnamese": "huynh đệ",
+    "chinese_traditional": "兄弟",
+    "chinese_simplified": "兄弟",
+    "pinyin": "xiōngdì",
+    "english": "brothers",
+    "hsk_level": 1,
+    "category": "family"
+  },
+  {
+    "vietnamese": "giải muội",
+    "chinese_traditional": "姐妹",
+    "chinese_simplified": "姐妹",
+    "pinyin": "jiěmèi",
+    "english": "sisters",
+    "hsk_level": 1,
+    "category": "family"
+  },
+  {
+    "vietnamese": "bạn hữu",
+    "chinese_traditional": "朋友",
+    "chinese_simplified": "朋友",
+    "pinyin": "péngyǒu",
+    "english": "friend",
+    "hsk_level": 1,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thế giới",
+    "chinese_traditional": "世界",
+    "chinese_simplified": "世界",
+    "pinyin": "shìjiè",
+    "english": "world",
+    "hsk_level": 1,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "sinh hoạt",
+    "chinese_traditional": "生活",
+    "chinese_simplified": "生活",
+    "pinyin": "shēnghuó",
+    "english": "life; to live",
+    "hsk_level": 1,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thời gian",
+    "chinese_traditional": "時間",
+    "chinese_simplified": "时间",
+    "pinyin": "shíjiān",
+    "english": "time",
+    "hsk_level": 1,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thời tiết",
+    "chinese_traditional": "天氣",
+    "chinese_simplified": "天气",
+    "pinyin": "tiānqì",
+    "english": "weather",
+    "hsk_level": 1,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "thể thao",
+    "chinese_traditional": "運動",
+    "chinese_simplified": "运动",
+    "pinyin": "yùndòng",
+    "english": "sports; exercise",
+    "hsk_level": 1,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "điện thoại",
+    "chinese_traditional": "電話",
+    "chinese_simplified": "电话",
+    "pinyin": "diànhuà",
+    "english": "telephone",
+    "hsk_level": 1,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "thư bản",
+    "chinese_traditional": "書本",
+    "chinese_simplified": "书本",
+    "pinyin": "shūběn",
+    "english": "books",
+    "hsk_level": 1,
+    "category": "education"
+  },
+  {
+    "vietnamese": "tầu hỏa",
+    "chinese_traditional": "火車",
+    "chinese_simplified": "火车",
+    "pinyin": "huǒchē",
+    "english": "train",
+    "hsk_level": 1,
+    "category": "travel"
+  },
+  {
+    "vietnamese": "thành phố",
+    "chinese_traditional": "城市",
+    "chinese_simplified": "城市",
+    "pinyin": "chéngshì",
+    "english": "city",
+    "hsk_level": 1,
+    "category": "travel"
+  },
+  {
+    "vietnamese": "tình yêu",
+    "chinese_traditional": "愛情",
+    "chinese_simplified": "爱情",
+    "pinyin": "àiqíng",
+    "english": "love; romance",
+    "hsk_level": 2,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "lịch sử",
+    "chinese_traditional": "歷史",
+    "chinese_simplified": "历史",
+    "pinyin": "lìshǐ",
+    "english": "history",
+    "hsk_level": 2,
+    "category": "education"
+  },
+  {
+    "vietnamese": "kinh tế",
+    "chinese_traditional": "經濟",
+    "chinese_simplified": "经济",
+    "pinyin": "jīngjì",
+    "english": "economy",
+    "hsk_level": 2,
+    "category": "business"
+  },
+  {
+    "vietnamese": "giáo dục",
+    "chinese_traditional": "教育",
+    "chinese_simplified": "教育",
+    "pinyin": "jiàoyù",
+    "english": "education",
+    "hsk_level": 2,
+    "category": "education"
+  },
+  {
+    "vietnamese": "bệnh viện",
+    "chinese_traditional": "醫院",
+    "chinese_simplified": "医院",
+    "pinyin": "yīyuàn",
+    "english": "hospital",
+    "hsk_level": 2,
+    "category": "health"
+  },
+  {
+    "vietnamese": "chính trị",
+    "chinese_traditional": "政治",
+    "chinese_simplified": "政治",
+    "pinyin": "zhèngzhì",
+    "english": "politics",
+    "hsk_level": 2,
+    "category": "society"
+  },
+  {
+    "vietnamese": "văn hóa",
+    "chinese_traditional": "文化",
+    "chinese_simplified": "文化",
+    "pinyin": "wénhuà",
+    "english": "culture",
+    "hsk_level": 2,
+    "category": "society"
+  },
+  {
+    "vietnamese": "khoa học",
+    "chinese_traditional": "科學",
+    "chinese_simplified": "科学",
+    "pinyin": "kēxué",
+    "english": "science",
+    "hsk_level": 2,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "nghệ thuật",
+    "chinese_traditional": "藝術",
+    "chinese_simplified": "艺术",
+    "pinyin": "yìshù",
+    "english": "art",
+    "hsk_level": 2,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "tự nhiên",
+    "chinese_traditional": "自然",
+    "chinese_simplified": "自然",
+    "pinyin": "zìrán",
+    "english": "nature",
+    "hsk_level": 2,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "xã hội",
+    "chinese_traditional": "社會",
+    "chinese_simplified": "社会",
+    "pinyin": "shèhuì",
+    "english": "society",
+    "hsk_level": 2,
+    "category": "society"
+  },
+  {
+    "vietnamese": "quốc gia",
+    "chinese_traditional": "國家",
+    "chinese_simplified": "国家",
+    "pinyin": "guójiā",
+    "english": "country",
+    "hsk_level": 2,
+    "category": "society"
+  },
+  {
+    "vietnamese": "giao thông",
+    "chinese_traditional": "交通",
+    "chinese_simplified": "交通",
+    "pinyin": "jiāotōng",
+    "english": "transportation",
+    "hsk_level": 2,
+    "category": "travel"
+  },
+  {
+    "vietnamese": "du lịch",
+    "chinese_traditional": "旅遊",
+    "chinese_simplified": "旅游",
+    "pinyin": "lǚyóu",
+    "english": "tourism; to travel",
+    "hsk_level": 2,
+    "category": "travel"
+  },
+  {
+    "vietnamese": "địa chỉ",
+    "chinese_traditional": "地址",
+    "chinese_simplified": "地址",
+    "pinyin": "dìzhǐ",
+    "english": "address",
+    "hsk_level": 2,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "an ninh",
+    "chinese_traditional": "安全",
+    "chinese_simplified": "安全",
+    "pinyin": "ānquán",
+    "english": "safety; security",
+    "hsk_level": 2,
+    "category": "society"
+  },
+  {
+    "vietnamese": "phương Đông",
+    "chinese_traditional": "東方",
+    "chinese_simplified": "东方",
+    "pinyin": "dōngfāng",
+    "english": "the East",
+    "hsk_level": 2,
+    "category": "travel"
+  },
+  {
+    "vietnamese": "phương pháp",
+    "chinese_traditional": "方法",
+    "chinese_simplified": "方法",
+    "pinyin": "fāngfǎ",
+    "english": "method",
+    "hsk_level": 2,
+    "category": "education"
+  },
+  {
+    "vietnamese": "thức ăn",
+    "chinese_traditional": "食物",
+    "chinese_simplified": "食物",
+    "pinyin": "shíwù",
+    "english": "food",
+    "hsk_level": 2,
+    "category": "food"
+  },
+  {
+    "vietnamese": "truyền hình",
+    "chinese_traditional": "電視",
+    "chinese_simplified": "电视",
+    "pinyin": "diànshì",
+    "english": "television",
+    "hsk_level": 2,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "máy bay",
+    "chinese_traditional": "飛機",
+    "chinese_simplified": "飞机",
+    "pinyin": "fēijī",
+    "english": "airplane",
+    "hsk_level": 2,
+    "category": "travel"
+  },
+  {
+    "vietnamese": "trợ giúp",
+    "chinese_traditional": "幫助",
+    "chinese_simplified": "帮助",
+    "pinyin": "bāngzhù",
+    "english": "to help",
+    "hsk_level": 2,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "tham gia",
+    "chinese_traditional": "參加",
+    "chinese_simplified": "参加",
+    "pinyin": "cānjiā",
+    "english": "to participate; to join",
+    "hsk_level": 2,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thích hợp",
+    "chinese_traditional": "適合",
+    "chinese_simplified": "适合",
+    "pinyin": "shìhé",
+    "english": "suitable; appropriate",
+    "hsk_level": 2,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thông báo",
+    "chinese_traditional": "通知",
+    "chinese_simplified": "通知",
+    "pinyin": "tōngzhī",
+    "english": "notice; to notify",
+    "hsk_level": 2,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "nhận thức",
+    "chinese_traditional": "認識",
+    "chinese_simplified": "认识",
+    "pinyin": "rènshi",
+    "english": "to know; awareness",
+    "hsk_level": 2,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "vùng đất",
+    "chinese_traditional": "地區",
+    "chinese_simplified": "地区",
+    "pinyin": "dìqū",
+    "english": "region; area",
+    "hsk_level": 2,
+    "category": "travel"
+  },
+  {
+    "vietnamese": "sắp xếp",
+    "chinese_traditional": "安排",
+    "chinese_simplified": "安排",
+    "pinyin": "ānpái",
+    "english": "to arrange",
+    "hsk_level": 2,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "phát triển",
+    "chinese_traditional": "發展",
+    "chinese_simplified": "发展",
+    "pinyin": "fāzhǎn",
+    "english": "to develop; development",
+    "hsk_level": 3,
+    "category": "business"
+  },
+  {
+    "vietnamese": "tổ chức",
+    "chinese_traditional": "組織",
+    "chinese_simplified": "组织",
+    "pinyin": "zǔzhī",
+    "english": "organization; to organize",
+    "hsk_level": 3,
+    "category": "business"
+  },
+  {
+    "vietnamese": "kinh nghiệm",
+    "chinese_traditional": "經驗",
+    "chinese_simplified": "经验",
+    "pinyin": "jīngyàn",
+    "english": "experience",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "phổ biến",
+    "chinese_traditional": "普遍",
+    "chinese_simplified": "普遍",
+    "pinyin": "pǔbiàn",
+    "english": "common; widespread",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "phát minh",
+    "chinese_traditional": "發明",
+    "chinese_simplified": "发明",
+    "pinyin": "fāmíng",
+    "english": "invention",
+    "hsk_level": 3,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "thành công",
+    "chinese_traditional": "成功",
+    "chinese_simplified": "成功",
+    "pinyin": "chénggōng",
+    "english": "success",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "chất lượng",
+    "chinese_traditional": "質量",
+    "chinese_simplified": "质量",
+    "pinyin": "zhìliàng",
+    "english": "quality",
+    "hsk_level": 3,
+    "category": "business"
+  },
+  {
+    "vietnamese": "hợp tác",
+    "chinese_traditional": "合作",
+    "chinese_simplified": "合作",
+    "pinyin": "hézuò",
+    "english": "cooperation",
+    "hsk_level": 3,
+    "category": "business"
+  },
+  {
+    "vietnamese": "thành viên",
+    "chinese_traditional": "成員",
+    "chinese_simplified": "成员",
+    "pinyin": "chéngyuán",
+    "english": "member",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "quốc tế",
+    "chinese_traditional": "國際",
+    "chinese_simplified": "国际",
+    "pinyin": "guójì",
+    "english": "international",
+    "hsk_level": 3,
+    "category": "society"
+  },
+  {
+    "vietnamese": "truyền thống",
+    "chinese_traditional": "傳統",
+    "chinese_simplified": "传统",
+    "pinyin": "chuántǒng",
+    "english": "tradition",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thương mại",
+    "chinese_traditional": "商業",
+    "chinese_simplified": "商业",
+    "pinyin": "shāngyè",
+    "english": "commerce",
+    "hsk_level": 3,
+    "category": "business"
+  },
+  {
+    "vietnamese": "động vật",
+    "chinese_traditional": "動物",
+    "chinese_simplified": "动物",
+    "pinyin": "dòngwù",
+    "english": "animal",
+    "hsk_level": 3,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "toán học",
+    "chinese_traditional": "數學",
+    "chinese_simplified": "数学",
+    "pinyin": "shùxué",
+    "english": "mathematics",
+    "hsk_level": 3,
+    "category": "education"
+  },
+  {
+    "vietnamese": "pháp luật",
+    "chinese_traditional": "法律",
+    "chinese_simplified": "法律",
+    "pinyin": "fǎlǜ",
+    "english": "law",
+    "hsk_level": 3,
+    "category": "society"
+  },
+  {
+    "vietnamese": "thông tin",
+    "chinese_traditional": "信息",
+    "chinese_simplified": "信息",
+    "pinyin": "xìnxī",
+    "english": "information",
+    "hsk_level": 3,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "thể dục",
+    "chinese_traditional": "體育",
+    "chinese_simplified": "体育",
+    "pinyin": "tǐyù",
+    "english": "physical education; sports",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "nhạc cụ",
+    "chinese_traditional": "樂器",
+    "chinese_simplified": "乐器",
+    "pinyin": "yuèqì",
+    "english": "musical instrument",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "môi trường",
+    "chinese_traditional": "環境",
+    "chinese_simplified": "环境",
+    "pinyin": "huánjìng",
+    "english": "environment",
+    "hsk_level": 3,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "khí hậu",
+    "chinese_traditional": "氣候",
+    "chinese_simplified": "气候",
+    "pinyin": "qìhòu",
+    "english": "climate",
+    "hsk_level": 3,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "bảo vệ",
+    "chinese_traditional": "保護",
+    "chinese_simplified": "保护",
+    "pinyin": "bǎohù",
+    "english": "to protect",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thực phẩm",
+    "chinese_traditional": "食品",
+    "chinese_simplified": "食品",
+    "pinyin": "shípǐn",
+    "english": "food",
+    "hsk_level": 3,
+    "category": "food"
+  },
+  {
+    "vietnamese": "tôn trọng",
+    "chinese_traditional": "尊重",
+    "chinese_simplified": "尊重",
+    "pinyin": "zūnzhòng",
+    "english": "to respect",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thành thật",
+    "chinese_traditional": "誠實",
+    "chinese_simplified": "诚实",
+    "pinyin": "chéngshí",
+    "english": "honest",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thông minh",
+    "chinese_traditional": "聰明",
+    "chinese_simplified": "聪明",
+    "pinyin": "cōngmíng",
+    "english": "smart; intelligent",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "tính toán",
+    "chinese_traditional": "計算",
+    "chinese_simplified": "计算",
+    "pinyin": "jìsuàn",
+    "english": "to calculate",
+    "hsk_level": 3,
+    "category": "education"
+  },
+  {
+    "vietnamese": "quyết định",
+    "chinese_traditional": "決定",
+    "chinese_simplified": "决定",
+    "pinyin": "juédìng",
+    "english": "to decide; decision",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "giải quyết",
+    "chinese_traditional": "解決",
+    "chinese_simplified": "解决",
+    "pinyin": "jiějué",
+    "english": "to solve; to resolve",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "khó khăn",
+    "chinese_traditional": "困難",
+    "chinese_simplified": "困难",
+    "pinyin": "kùnnan",
+    "english": "difficulty",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "cơ hội",
+    "chinese_traditional": "機會",
+    "chinese_simplified": "机会",
+    "pinyin": "jīhuì",
+    "english": "opportunity",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "hiểu biết",
+    "chinese_traditional": "了解",
+    "chinese_simplified": "了解",
+    "pinyin": "liǎojiě",
+    "english": "to understand; understanding",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "phát hiện",
+    "chinese_traditional": "發現",
+    "chinese_simplified": "发现",
+    "pinyin": "fāxiàn",
+    "english": "to discover; to find",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "hứng thú",
+    "chinese_traditional": "興趣",
+    "chinese_simplified": "兴趣",
+    "pinyin": "xìngqù",
+    "english": "interest; enthusiasm",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "tình bạn",
+    "chinese_traditional": "友誼",
+    "chinese_simplified": "友谊",
+    "pinyin": "yǒuyì",
+    "english": "friendship",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thành tích",
+    "chinese_traditional": "成績",
+    "chinese_simplified": "成绩",
+    "pinyin": "chéngjì",
+    "english": "grades; achievements",
+    "hsk_level": 3,
+    "category": "education"
+  },
+  {
+    "vietnamese": "tiếng nói",
+    "chinese_traditional": "語言",
+    "chinese_simplified": "语言",
+    "pinyin": "yǔyán",
+    "english": "language",
+    "hsk_level": 3,
+    "category": "education"
+  },
+  {
+    "vietnamese": "thời đại",
+    "chinese_traditional": "時代",
+    "chinese_simplified": "时代",
+    "pinyin": "shídài",
+    "english": "era; age",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "địa lý",
+    "chinese_traditional": "地理",
+    "chinese_simplified": "地理",
+    "pinyin": "dìlǐ",
+    "english": "geography",
+    "hsk_level": 3,
+    "category": "education"
+  },
+  {
+    "vietnamese": "tính cách",
+    "chinese_traditional": "性格",
+    "chinese_simplified": "性格",
+    "pinyin": "xìnggé",
+    "english": "personality; character",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "tiến bộ",
+    "chinese_traditional": "進步",
+    "chinese_simplified": "进步",
+    "pinyin": "jìnbù",
+    "english": "progress; to advance",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thư giãn",
+    "chinese_traditional": "放鬆",
+    "chinese_simplified": "放松",
+    "pinyin": "fàngsōng",
+    "english": "to relax",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "tiến hành",
+    "chinese_traditional": "進行",
+    "chinese_simplified": "进行",
+    "pinyin": "jìnxíng",
+    "english": "to conduct; to proceed",
+    "hsk_level": 3,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "hành chính",
+    "chinese_traditional": "行政",
+    "chinese_simplified": "行政",
+    "pinyin": "xíngzhèng",
+    "english": "administration",
+    "hsk_level": 4,
+    "category": "society"
+  },
+  {
+    "vietnamese": "thể hiện",
+    "chinese_traditional": "體現",
+    "chinese_simplified": "体现",
+    "pinyin": "tǐxiàn",
+    "english": "to embody; to reflect",
+    "hsk_level": 4,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "hợp đồng",
+    "chinese_traditional": "合同",
+    "chinese_simplified": "合同",
+    "pinyin": "hétong",
+    "english": "contract",
+    "hsk_level": 4,
+    "category": "business"
+  },
+  {
+    "vietnamese": "cơ quan",
+    "chinese_traditional": "機關",
+    "chinese_simplified": "机关",
+    "pinyin": "jīguān",
+    "english": "organ; government body",
+    "hsk_level": 4,
+    "category": "society"
+  },
+  {
+    "vietnamese": "công nghiệp",
+    "chinese_traditional": "工業",
+    "chinese_simplified": "工业",
+    "pinyin": "gōngyè",
+    "english": "industry",
+    "hsk_level": 4,
+    "category": "business"
+  },
+  {
+    "vietnamese": "nông nghiệp",
+    "chinese_traditional": "農業",
+    "chinese_simplified": "农业",
+    "pinyin": "nóngyè",
+    "english": "agriculture",
+    "hsk_level": 4,
+    "category": "business"
+  },
+  {
+    "vietnamese": "sinh vật",
+    "chinese_traditional": "生物",
+    "chinese_simplified": "生物",
+    "pinyin": "shēngwù",
+    "english": "biology; organism",
+    "hsk_level": 4,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "thực vật",
+    "chinese_traditional": "植物",
+    "chinese_simplified": "植物",
+    "pinyin": "zhíwù",
+    "english": "plant",
+    "hsk_level": 4,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "vật lý",
+    "chinese_traditional": "物理",
+    "chinese_simplified": "物理",
+    "pinyin": "wùlǐ",
+    "english": "physics",
+    "hsk_level": 4,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "hóa học",
+    "chinese_traditional": "化學",
+    "chinese_simplified": "化学",
+    "pinyin": "huàxué",
+    "english": "chemistry",
+    "hsk_level": 4,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "văn học",
+    "chinese_traditional": "文學",
+    "chinese_simplified": "文学",
+    "pinyin": "wénxué",
+    "english": "literature",
+    "hsk_level": 4,
+    "category": "education"
+  },
+  {
+    "vietnamese": "y học",
+    "chinese_traditional": "醫學",
+    "chinese_simplified": "医学",
+    "pinyin": "yīxué",
+    "english": "medicine; medical science",
+    "hsk_level": 4,
+    "category": "health"
+  },
+  {
+    "vietnamese": "tiết kiệm",
+    "chinese_traditional": "節約",
+    "chinese_simplified": "节约",
+    "pinyin": "jiéyuē",
+    "english": "to save; economy",
+    "hsk_level": 4,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "tâm lý",
+    "chinese_traditional": "心理",
+    "chinese_simplified": "心理",
+    "pinyin": "xīnlǐ",
+    "english": "psychology; mental",
+    "hsk_level": 4,
+    "category": "health"
+  },
+  {
+    "vietnamese": "tư tưởng",
+    "chinese_traditional": "思想",
+    "chinese_simplified": "思想",
+    "pinyin": "sīxiǎng",
+    "english": "thought; ideology",
+    "hsk_level": 4,
+    "category": "education"
+  },
+  {
+    "vietnamese": "tinh thần",
+    "chinese_traditional": "精神",
+    "chinese_simplified": "精神",
+    "pinyin": "jīngshén",
+    "english": "spirit; morale",
+    "hsk_level": 4,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "vũ trụ",
+    "chinese_traditional": "宇宙",
+    "chinese_simplified": "宇宙",
+    "pinyin": "yǔzhòu",
+    "english": "universe",
+    "hsk_level": 4,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "tài chính",
+    "chinese_traditional": "財政",
+    "chinese_simplified": "财政",
+    "pinyin": "cáizhèng",
+    "english": "finance",
+    "hsk_level": 4,
+    "category": "business"
+  },
+  {
+    "vietnamese": "tri thức",
+    "chinese_traditional": "知識",
+    "chinese_simplified": "知识",
+    "pinyin": "zhīshi",
+    "english": "knowledge",
+    "hsk_level": 4,
+    "category": "education"
+  },
+  {
+    "vietnamese": "khám phá",
+    "chinese_traditional": "探索",
+    "chinese_simplified": "探索",
+    "pinyin": "tànsuǒ",
+    "english": "to explore",
+    "hsk_level": 4,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "phân tích",
+    "chinese_traditional": "分析",
+    "chinese_simplified": "分析",
+    "pinyin": "fēnxī",
+    "english": "to analyze",
+    "hsk_level": 4,
+    "category": "education"
+  },
+  {
+    "vietnamese": "phán đoán",
+    "chinese_traditional": "判斷",
+    "chinese_simplified": "判断",
+    "pinyin": "pànduàn",
+    "english": "to judge; judgment",
+    "hsk_level": 4,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "đánh giá",
+    "chinese_traditional": "評價",
+    "chinese_simplified": "评价",
+    "pinyin": "píngjià",
+    "english": "to evaluate; evaluation",
+    "hsk_level": 4,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "điều tra",
+    "chinese_traditional": "調查",
+    "chinese_simplified": "调查",
+    "pinyin": "diàochá",
+    "english": "to investigate; survey",
+    "hsk_level": 4,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "khẩn cấp",
+    "chinese_traditional": "緊急",
+    "chinese_simplified": "紧急",
+    "pinyin": "jǐnjí",
+    "english": "emergency; urgent",
+    "hsk_level": 4,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "phản ánh",
+    "chinese_traditional": "反映",
+    "chinese_simplified": "反映",
+    "pinyin": "fǎnyìng",
+    "english": "to reflect; to report",
+    "hsk_level": 4,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "hưởng thụ",
+    "chinese_traditional": "享受",
+    "chinese_simplified": "享受",
+    "pinyin": "xiǎngshòu",
+    "english": "to enjoy",
+    "hsk_level": 4,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thị trường",
+    "chinese_traditional": "市場",
+    "chinese_simplified": "市场",
+    "pinyin": "shìchǎng",
+    "english": "market",
+    "hsk_level": 4,
+    "category": "business"
+  },
+  {
+    "vietnamese": "thất bại",
+    "chinese_traditional": "失敗",
+    "chinese_simplified": "失败",
+    "pinyin": "shībài",
+    "english": "defeat; failure",
+    "hsk_level": 4,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thảo luận",
+    "chinese_traditional": "討論",
+    "chinese_simplified": "讨论",
+    "pinyin": "tǎolùn",
+    "english": "to discuss",
+    "hsk_level": 4,
+    "category": "education"
+  },
+  {
+    "vietnamese": "tiếp xúc",
+    "chinese_traditional": "接觸",
+    "chinese_simplified": "接触",
+    "pinyin": "jiēchù",
+    "english": "to contact; to touch",
+    "hsk_level": 4,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thương cảm",
+    "chinese_traditional": "同情",
+    "chinese_simplified": "同情",
+    "pinyin": "tóngqíng",
+    "english": "sympathy",
+    "hsk_level": 4,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thực hiện",
+    "chinese_traditional": "實現",
+    "chinese_simplified": "实现",
+    "pinyin": "shíxiàn",
+    "english": "to realize; to implement",
+    "hsk_level": 4,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "tham quan",
+    "chinese_traditional": "參觀",
+    "chinese_simplified": "参观",
+    "pinyin": "cānguān",
+    "english": "to visit; to tour",
+    "hsk_level": 4,
+    "category": "travel"
+  },
+  {
+    "vietnamese": "thăm hỏi",
+    "chinese_traditional": "探望",
+    "chinese_simplified": "探望",
+    "pinyin": "tànwàng",
+    "english": "to visit someone; to inquire after",
+    "hsk_level": 4,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "tham khảo",
+    "chinese_traditional": "參考",
+    "chinese_simplified": "参考",
+    "pinyin": "cānkǎo",
+    "english": "to refer; reference",
+    "hsk_level": 4,
+    "category": "education"
+  },
+  {
+    "vietnamese": "biểu diễn",
+    "chinese_traditional": "表演",
+    "chinese_simplified": "表演",
+    "pinyin": "biǎoyǎn",
+    "english": "performance; to perform",
+    "hsk_level": 4,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "truyền thông",
+    "chinese_traditional": "媒體",
+    "chinese_simplified": "媒体",
+    "pinyin": "méitǐ",
+    "english": "media",
+    "hsk_level": 4,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "tôn giáo",
+    "chinese_traditional": "宗教",
+    "chinese_simplified": "宗教",
+    "pinyin": "zōngjiào",
+    "english": "religion",
+    "hsk_level": 4,
+    "category": "society"
+  },
+  {
+    "vietnamese": "thiên nhiên",
+    "chinese_traditional": "天然",
+    "chinese_simplified": "天然",
+    "pinyin": "tiānrán",
+    "english": "natural",
+    "hsk_level": 4,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "ngoại giao",
+    "chinese_traditional": "外交",
+    "chinese_simplified": "外交",
+    "pinyin": "wàijiāo",
+    "english": "diplomacy",
+    "hsk_level": 5,
+    "category": "society"
+  },
+  {
+    "vietnamese": "trật tự",
+    "chinese_traditional": "秩序",
+    "chinese_simplified": "秩序",
+    "pinyin": "zhìxù",
+    "english": "order; discipline",
+    "hsk_level": 5,
+    "category": "society"
+  },
+  {
+    "vietnamese": "phòng thủ",
+    "chinese_traditional": "防守",
+    "chinese_simplified": "防守",
+    "pinyin": "fángshǒu",
+    "english": "defense; to defend",
+    "hsk_level": 5,
+    "category": "society"
+  },
+  {
+    "vietnamese": "thương hiệu",
+    "chinese_traditional": "品牌",
+    "chinese_simplified": "品牌",
+    "pinyin": "pǐnpái",
+    "english": "brand",
+    "hsk_level": 5,
+    "category": "business"
+  },
+  {
+    "vietnamese": "thương lượng",
+    "chinese_traditional": "談判",
+    "chinese_simplified": "谈判",
+    "pinyin": "tánpàn",
+    "english": "negotiation; to negotiate",
+    "hsk_level": 5,
+    "category": "business"
+  },
+  {
+    "vietnamese": "thực thi",
+    "chinese_traditional": "執行",
+    "chinese_simplified": "执行",
+    "pinyin": "zhíxíng",
+    "english": "to execute; to enforce",
+    "hsk_level": 5,
+    "category": "society"
+  },
+  {
+    "vietnamese": "thống nhất",
+    "chinese_traditional": "統一",
+    "chinese_simplified": "统一",
+    "pinyin": "tǒngyī",
+    "english": "unified; unification",
+    "hsk_level": 5,
+    "category": "society"
+  },
+  {
+    "vietnamese": "thiên văn",
+    "chinese_traditional": "天文",
+    "chinese_simplified": "天文",
+    "pinyin": "tiānwén",
+    "english": "astronomy",
+    "hsk_level": 5,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "thủy văn",
+    "chinese_traditional": "水文",
+    "chinese_simplified": "水文",
+    "pinyin": "shuǐwén",
+    "english": "hydrology",
+    "hsk_level": 5,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "tâm lý học",
+    "chinese_traditional": "心理學",
+    "chinese_simplified": "心理学",
+    "pinyin": "xīnlǐxué",
+    "english": "psychology",
+    "hsk_level": 5,
+    "category": "education"
+  },
+  {
+    "vietnamese": "biện luận",
+    "chinese_traditional": "辯論",
+    "chinese_simplified": "辩论",
+    "pinyin": "biànlùn",
+    "english": "debate; to debate",
+    "hsk_level": 5,
+    "category": "education"
+  },
+  {
+    "vietnamese": "thủy lợi",
+    "chinese_traditional": "水利",
+    "chinese_simplified": "水利",
+    "pinyin": "shuǐlì",
+    "english": "water conservancy",
+    "hsk_level": 5,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "thủ thuật",
+    "chinese_traditional": "技巧",
+    "chinese_simplified": "技巧",
+    "pinyin": "jìqiǎo",
+    "english": "technique; skill",
+    "hsk_level": 5,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "thẩm thấu",
+    "chinese_traditional": "吸收",
+    "chinese_simplified": "吸收",
+    "pinyin": "xīshōu",
+    "english": "to absorb; absorption",
+    "hsk_level": 5,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "triết học",
+    "chinese_traditional": "哲學",
+    "chinese_simplified": "哲学",
+    "pinyin": "zhéxué",
+    "english": "philosophy",
+    "hsk_level": 6,
+    "category": "education"
+  },
+  {
+    "vietnamese": "thẩm mỹ học",
+    "chinese_traditional": "美學",
+    "chinese_simplified": "美学",
+    "pinyin": "měixué",
+    "english": "aesthetics",
+    "hsk_level": 6,
+    "category": "education"
+  },
+  {
+    "vietnamese": "thần học",
+    "chinese_traditional": "神學",
+    "chinese_simplified": "神学",
+    "pinyin": "shénxué",
+    "english": "theology",
+    "hsk_level": 6,
+    "category": "education"
+  },
+  {
+    "vietnamese": "thống kê học",
+    "chinese_traditional": "統計學",
+    "chinese_simplified": "统计学",
+    "pinyin": "tǒngjìxué",
+    "english": "statistics",
+    "hsk_level": 6,
+    "category": "education"
+  },
+  {
+    "vietnamese": "thông tin học",
+    "chinese_traditional": "信息學",
+    "chinese_simplified": "信息学",
+    "pinyin": "xìnxīxué",
+    "english": "informatics",
+    "hsk_level": 6,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "thị phần",
+    "chinese_traditional": "市佔率",
+    "chinese_simplified": "市占率",
+    "pinyin": "shìzhànlǜ",
+    "english": "market share",
+    "hsk_level": 6,
+    "category": "business"
+  },
+  {
+    "vietnamese": "thương譽",
+    "chinese_traditional": "商譽",
+    "chinese_simplified": "商誉",
+    "pinyin": "shāngyù",
+    "english": "goodwill; reputation",
+    "hsk_level": 6,
+    "category": "business"
+  },
+  {
+    "vietnamese": "thiên nhiên học",
+    "chinese_traditional": "生態學",
+    "chinese_simplified": "生态学",
+    "pinyin": "shēngtàixué",
+    "english": "ecology",
+    "hsk_level": 6,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "thấm nhập",
+    "chinese_traditional": "滲透",
+    "chinese_simplified": "渗透",
+    "pinyin": "shèntòu",
+    "english": "to penetrate; infiltration",
+    "hsk_level": 6,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "tiến hóa",
+    "chinese_traditional": "進化",
+    "chinese_simplified": "进化",
+    "pinyin": "jìnhuà",
+    "english": "evolution",
+    "hsk_level": 6,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "t資 tin học",
+    "chinese_traditional": "資訊學",
+    "chinese_simplified": "资讯学",
+    "pinyin": "zīxùn xué",
+    "english": "information science",
+    "hsk_level": 6,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "kiến trúc",
+    "chinese_traditional": "建築",
+    "chinese_simplified": "建筑",
+    "pinyin": "jiànzhù",
+    "english": "architecture",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "đông y",
+    "chinese_traditional": "中醫",
+    "chinese_simplified": "中医",
+    "pinyin": "zhōngyī",
+    "english": "traditional Chinese medicine",
+    "hsk_level": null,
+    "category": "health"
+  },
+  {
+    "vietnamese": "phòng khám",
+    "chinese_traditional": "診所",
+    "chinese_simplified": "诊所",
+    "pinyin": "zhěnsuǒ",
+    "english": "clinic",
+    "hsk_level": null,
+    "category": "health"
+  },
+  {
+    "vietnamese": "văn phòng",
+    "chinese_traditional": "文書",
+    "chinese_simplified": "文书",
+    "pinyin": "wénshū",
+    "english": "documents; paperwork",
+    "hsk_level": null,
+    "category": "business"
+  },
+  {
+    "vietnamese": "thảo dược",
+    "chinese_traditional": "草藥",
+    "chinese_simplified": "草药",
+    "pinyin": "cǎoyào",
+    "english": "herbal medicine",
+    "hsk_level": null,
+    "category": "health"
+  },
+  {
+    "vietnamese": "thư tín",
+    "chinese_traditional": "書信",
+    "chinese_simplified": "书信",
+    "pinyin": "shūxìn",
+    "english": "letter; correspondence",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "học vấn",
+    "chinese_traditional": "學問",
+    "chinese_simplified": "学问",
+    "pinyin": "xuéwèn",
+    "english": "knowledge; scholarship",
+    "hsk_level": null,
+    "category": "education"
+  },
+  {
+    "vietnamese": "học giả",
+    "chinese_traditional": "學者",
+    "chinese_simplified": "学者",
+    "pinyin": "xuézhě",
+    "english": "scholar",
+    "hsk_level": null,
+    "category": "education"
+  },
+  {
+    "vietnamese": "học thuật",
+    "chinese_traditional": "學術",
+    "chinese_simplified": "学术",
+    "pinyin": "xuéshù",
+    "english": "academia; scholarship",
+    "hsk_level": null,
+    "category": "education"
+  },
+  {
+    "vietnamese": "thư viện",
+    "chinese_traditional": "圖書館",
+    "chinese_simplified": "图书馆",
+    "pinyin": "túshūguǎn",
+    "english": "library",
+    "hsk_level": null,
+    "category": "education"
+  },
+  {
+    "vietnamese": "trí tuệ",
+    "chinese_traditional": "智慧",
+    "chinese_simplified": "智慧",
+    "pinyin": "zhìhuì",
+    "english": "wisdom; intelligence",
+    "hsk_level": null,
+    "category": "education"
+  },
+  {
+    "vietnamese": "tri tuệ nhân tạo",
+    "chinese_traditional": "人工智慧",
+    "chinese_simplified": "人工智能",
+    "pinyin": "réngōng zhìnéng",
+    "english": "artificial intelligence",
+    "hsk_level": null,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "hàng không",
+    "chinese_traditional": "航空",
+    "chinese_simplified": "航空",
+    "pinyin": "hángkōng",
+    "english": "aviation",
+    "hsk_level": null,
+    "category": "travel"
+  },
+  {
+    "vietnamese": "ngoại thương",
+    "chinese_traditional": "外貿",
+    "chinese_simplified": "外贸",
+    "pinyin": "wàimào",
+    "english": "foreign trade",
+    "hsk_level": null,
+    "category": "business"
+  },
+  {
+    "vietnamese": "nội thương",
+    "chinese_traditional": "內貿",
+    "chinese_simplified": "内贸",
+    "pinyin": "nèimào",
+    "english": "domestic trade",
+    "hsk_level": null,
+    "category": "business"
+  },
+  {
+    "vietnamese": "vận chuyển",
+    "chinese_traditional": "運輸",
+    "chinese_simplified": "运输",
+    "pinyin": "yùnshū",
+    "english": "transport; to transport",
+    "hsk_level": null,
+    "category": "travel"
+  },
+  {
+    "vietnamese": "hải quan",
+    "chinese_traditional": "海關",
+    "chinese_simplified": "海关",
+    "pinyin": "hǎiguān",
+    "english": "customs",
+    "hsk_level": null,
+    "category": "travel"
+  },
+  {
+    "vietnamese": "thiết bị",
+    "chinese_traditional": "設備",
+    "chinese_simplified": "设备",
+    "pinyin": "shèbèi",
+    "english": "equipment; facility",
+    "hsk_level": null,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "tiêu chuẩn",
+    "chinese_traditional": "標準",
+    "chinese_simplified": "标准",
+    "pinyin": "biāozhǔn",
+    "english": "standard",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thiết kế",
+    "chinese_traditional": "設計",
+    "chinese_simplified": "设计",
+    "pinyin": "shèjì",
+    "english": "to design; design",
+    "hsk_level": null,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "tiêu thụ",
+    "chinese_traditional": "消費",
+    "chinese_simplified": "消费",
+    "pinyin": "xiāofèi",
+    "english": "consumption; to consume",
+    "hsk_level": null,
+    "category": "business"
+  },
+  {
+    "vietnamese": "thương mại điện tử",
+    "chinese_traditional": "電商",
+    "chinese_simplified": "电商",
+    "pinyin": "diànshāng",
+    "english": "e-commerce",
+    "hsk_level": null,
+    "category": "business"
+  },
+  {
+    "vietnamese": "truyền thông xã hội",
+    "chinese_traditional": "社交媒體",
+    "chinese_simplified": "社交媒体",
+    "pinyin": "shèjiāo méitǐ",
+    "english": "social media",
+    "hsk_level": null,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "thành phố thông minh",
+    "chinese_traditional": "智慧城市",
+    "chinese_simplified": "智慧城市",
+    "pinyin": "zhìhuì chéngshì",
+    "english": "smart city",
+    "hsk_level": null,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "đầu tư",
+    "chinese_traditional": "投資",
+    "chinese_simplified": "投资",
+    "pinyin": "tóuzī",
+    "english": "investment; to invest",
+    "hsk_level": null,
+    "category": "business"
+  },
+  {
+    "vietnamese": "lợi nhuận",
+    "chinese_traditional": "利潤",
+    "chinese_simplified": "利润",
+    "pinyin": "lìrùn",
+    "english": "profit",
+    "hsk_level": null,
+    "category": "business"
+  },
+  {
+    "vietnamese": "bảo hiểm",
+    "chinese_traditional": "保險",
+    "chinese_simplified": "保险",
+    "pinyin": "bǎoxiǎn",
+    "english": "insurance",
+    "hsk_level": null,
+    "category": "business"
+  },
+  {
+    "vietnamese": "kiểm toán",
+    "chinese_traditional": "審計",
+    "chinese_simplified": "审计",
+    "pinyin": "shěnjì",
+    "english": "audit",
+    "hsk_level": null,
+    "category": "business"
+  },
+  {
+    "vietnamese": "thương gia",
+    "chinese_traditional": "商人",
+    "chinese_simplified": "商人",
+    "pinyin": "shāngrén",
+    "english": "businessperson; merchant",
+    "hsk_level": null,
+    "category": "business"
+  },
+  {
+    "vietnamese": "quốc phòng",
+    "chinese_traditional": "國防",
+    "chinese_simplified": "国防",
+    "pinyin": "guófáng",
+    "english": "national defense",
+    "hsk_level": null,
+    "category": "society"
+  },
+  {
+    "vietnamese": "nghĩa vụ",
+    "chinese_traditional": "義務",
+    "chinese_simplified": "义务",
+    "pinyin": "yìwù",
+    "english": "duty; obligation",
+    "hsk_level": null,
+    "category": "society"
+  },
+  {
+    "vietnamese": "quyền lợi",
+    "chinese_traditional": "權利",
+    "chinese_simplified": "权利",
+    "pinyin": "quánlì",
+    "english": "rights; privileges",
+    "hsk_level": null,
+    "category": "society"
+  },
+  {
+    "vietnamese": "tuân thủ",
+    "chinese_traditional": "遵守",
+    "chinese_simplified": "遵守",
+    "pinyin": "zūnshǒu",
+    "english": "to comply; to observe",
+    "hsk_level": null,
+    "category": "society"
+  },
+  {
+    "vietnamese": "thẩm phán",
+    "chinese_traditional": "審判",
+    "chinese_simplified": "审判",
+    "pinyin": "shěnpàn",
+    "english": "trial; to judge",
+    "hsk_level": null,
+    "category": "society"
+  },
+  {
+    "vietnamese": "thiện nguyện",
+    "chinese_traditional": "志願",
+    "chinese_simplified": "志愿",
+    "pinyin": "zhìyuàn",
+    "english": "volunteer; aspiration",
+    "hsk_level": null,
+    "category": "society"
+  },
+  {
+    "vietnamese": "chữa bệnh",
+    "chinese_traditional": "治療",
+    "chinese_simplified": "治疗",
+    "pinyin": "zhìliáo",
+    "english": "treatment; to treat",
+    "hsk_level": null,
+    "category": "health"
+  },
+  {
+    "vietnamese": "phẫu thuật",
+    "chinese_traditional": "手術",
+    "chinese_simplified": "手术",
+    "pinyin": "shǒushù",
+    "english": "surgery; operation",
+    "hsk_level": null,
+    "category": "health"
+  },
+  {
+    "vietnamese": "chẩn đoán",
+    "chinese_traditional": "診斷",
+    "chinese_simplified": "诊断",
+    "pinyin": "zhěnduàn",
+    "english": "diagnosis",
+    "hsk_level": null,
+    "category": "health"
+  },
+  {
+    "vietnamese": "vệ sinh",
+    "chinese_traditional": "衛生",
+    "chinese_simplified": "卫生",
+    "pinyin": "wèishēng",
+    "english": "hygiene; sanitation",
+    "hsk_level": null,
+    "category": "health"
+  },
+  {
+    "vietnamese": "dinh dưỡng",
+    "chinese_traditional": "營養",
+    "chinese_simplified": "营养",
+    "pinyin": "yíngyǎng",
+    "english": "nutrition",
+    "hsk_level": null,
+    "category": "health"
+  },
+  {
+    "vietnamese": "phòng ngừa",
+    "chinese_traditional": "預防",
+    "chinese_simplified": "预防",
+    "pinyin": "yùfáng",
+    "english": "prevention; to prevent",
+    "hsk_level": null,
+    "category": "health"
+  },
+  {
+    "vietnamese": "thiền định",
+    "chinese_traditional": "禪定",
+    "chinese_simplified": "禅定",
+    "pinyin": "chándìng",
+    "english": "meditation; zen",
+    "hsk_level": null,
+    "category": "health"
+  },
+  {
+    "vietnamese": "thông gió",
+    "chinese_traditional": "通風",
+    "chinese_simplified": "通风",
+    "pinyin": "tōngfēng",
+    "english": "ventilation",
+    "hsk_level": null,
+    "category": "health"
+  },
+  {
+    "vietnamese": "thần kinh",
+    "chinese_traditional": "神經",
+    "chinese_simplified": "神经",
+    "pinyin": "shénjīng",
+    "english": "nerve; nervous system",
+    "hsk_level": null,
+    "category": "health"
+  },
+  {
+    "vietnamese": "điện tử",
+    "chinese_traditional": "電子",
+    "chinese_simplified": "电子",
+    "pinyin": "diànzǐ",
+    "english": "electronics",
+    "hsk_level": null,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "điện lực",
+    "chinese_traditional": "電力",
+    "chinese_simplified": "电力",
+    "pinyin": "diànlì",
+    "english": "electric power",
+    "hsk_level": null,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "động cơ",
+    "chinese_traditional": "發動機",
+    "chinese_simplified": "发动机",
+    "pinyin": "fādòngjī",
+    "english": "engine",
+    "hsk_level": null,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "viễn thông",
+    "chinese_traditional": "遠程",
+    "chinese_simplified": "远程",
+    "pinyin": "yuǎnchéng",
+    "english": "telecommunications",
+    "hsk_level": null,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "truyền tải",
+    "chinese_traditional": "傳播",
+    "chinese_simplified": "传播",
+    "pinyin": "chuánbō",
+    "english": "to spread; to disseminate",
+    "hsk_level": null,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "thử nghiệm",
+    "chinese_traditional": "試驗",
+    "chinese_simplified": "试验",
+    "pinyin": "shìyàn",
+    "english": "experiment; trial",
+    "hsk_level": null,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "thăng cấp",
+    "chinese_traditional": "升級",
+    "chinese_simplified": "升级",
+    "pinyin": "shēngjí",
+    "english": "to upgrade",
+    "hsk_level": null,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "lâm nghiệp",
+    "chinese_traditional": "林業",
+    "chinese_simplified": "林业",
+    "pinyin": "línyè",
+    "english": "forestry",
+    "hsk_level": null,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "thủy hải",
+    "chinese_traditional": "水產",
+    "chinese_simplified": "水产",
+    "pinyin": "shuǐchǎn",
+    "english": "aquatic products",
+    "hsk_level": null,
+    "category": "food"
+  },
+  {
+    "vietnamese": "mỹ vị",
+    "chinese_traditional": "美味",
+    "chinese_simplified": "美味",
+    "pinyin": "měiwèi",
+    "english": "delicious; delicacy",
+    "hsk_level": null,
+    "category": "food"
+  },
+  {
+    "vietnamese": "thực đơn",
+    "chinese_traditional": "菜單",
+    "chinese_simplified": "菜单",
+    "pinyin": "càidān",
+    "english": "menu",
+    "hsk_level": null,
+    "category": "food"
+  },
+  {
+    "vietnamese": "tiệm ăn",
+    "chinese_traditional": "餐館",
+    "chinese_simplified": "餐馆",
+    "pinyin": "cānguǎn",
+    "english": "restaurant",
+    "hsk_level": null,
+    "category": "food"
+  },
+  {
+    "vietnamese": "thẩm thưởng",
+    "chinese_traditional": "品嘗",
+    "chinese_simplified": "品尝",
+    "pinyin": "pǐncháng",
+    "english": "to taste; to savor",
+    "hsk_level": null,
+    "category": "food"
+  },
+  {
+    "vietnamese": "duyên hải",
+    "chinese_traditional": "沿海",
+    "chinese_simplified": "沿海",
+    "pinyin": "yánhǎi",
+    "english": "coastal",
+    "hsk_level": null,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "nội địa",
+    "chinese_traditional": "內地",
+    "chinese_simplified": "内地",
+    "pinyin": "nèidì",
+    "english": "inland; hinterland",
+    "hsk_level": null,
+    "category": "travel"
+  },
+  {
+    "vietnamese": "thôn bản",
+    "chinese_traditional": "鄉村",
+    "chinese_simplified": "乡村",
+    "pinyin": "xiāngcūn",
+    "english": "countryside; village",
+    "hsk_level": null,
+    "category": "travel"
+  },
+  {
+    "vietnamese": "khách sạn",
+    "chinese_traditional": "賓館",
+    "chinese_simplified": "宾馆",
+    "pinyin": "bīnguǎn",
+    "english": "hotel",
+    "hsk_level": null,
+    "category": "travel"
+  },
+  {
+    "vietnamese": "cảng biển",
+    "chinese_traditional": "港口",
+    "chinese_simplified": "港口",
+    "pinyin": "gǎngkǒu",
+    "english": "port; harbor",
+    "hsk_level": null,
+    "category": "travel"
+  },
+  {
+    "vietnamese": "hải cảng",
+    "chinese_traditional": "海港",
+    "chinese_simplified": "海港",
+    "pinyin": "hǎigǎng",
+    "english": "seaport",
+    "hsk_level": null,
+    "category": "travel"
+  },
+  {
+    "vietnamese": "núi non",
+    "chinese_traditional": "山川",
+    "chinese_simplified": "山川",
+    "pinyin": "shānchuān",
+    "english": "mountains and rivers; landscape",
+    "hsk_level": null,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "sông ngòi",
+    "chinese_traditional": "河流",
+    "chinese_simplified": "河流",
+    "pinyin": "héliú",
+    "english": "rivers",
+    "hsk_level": null,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "hồ nước",
+    "chinese_traditional": "湖泊",
+    "chinese_simplified": "湖泊",
+    "pinyin": "húpō",
+    "english": "lakes",
+    "hsk_level": null,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "đồng bằng",
+    "chinese_traditional": "平原",
+    "chinese_simplified": "平原",
+    "pinyin": "píngyuán",
+    "english": "plain",
+    "hsk_level": null,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "cao nguyên",
+    "chinese_traditional": "高原",
+    "chinese_simplified": "高原",
+    "pinyin": "gāoyuán",
+    "english": "plateau",
+    "hsk_level": null,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "bán đảo",
+    "chinese_traditional": "半島",
+    "chinese_simplified": "半岛",
+    "pinyin": "bàndǎo",
+    "english": "peninsula",
+    "hsk_level": null,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "quần đảo",
+    "chinese_traditional": "群島",
+    "chinese_simplified": "群岛",
+    "pinyin": "qúndǎo",
+    "english": "archipelago",
+    "hsk_level": null,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "thiên tai",
+    "chinese_traditional": "天災",
+    "chinese_simplified": "天灾",
+    "pinyin": "tiānzāi",
+    "english": "natural disaster",
+    "hsk_level": null,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "động đất",
+    "chinese_traditional": "地震",
+    "chinese_simplified": "地震",
+    "pinyin": "dìzhèn",
+    "english": "earthquake",
+    "hsk_level": null,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "hỏa hoạn",
+    "chinese_traditional": "火災",
+    "chinese_simplified": "火灾",
+    "pinyin": "huǒzāi",
+    "english": "fire; fire disaster",
+    "hsk_level": null,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "lũ lụt",
+    "chinese_traditional": "洪水",
+    "chinese_simplified": "洪水",
+    "pinyin": "hóngshuǐ",
+    "english": "flood",
+    "hsk_level": null,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "bão tố",
+    "chinese_traditional": "暴風雨",
+    "chinese_simplified": "暴风雨",
+    "pinyin": "bàofēngyǔ",
+    "english": "storm",
+    "hsk_level": null,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "băng tuyết",
+    "chinese_traditional": "冰雪",
+    "chinese_simplified": "冰雪",
+    "pinyin": "bīngxuě",
+    "english": "ice and snow",
+    "hsk_level": null,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "triều đại",
+    "chinese_traditional": "朝代",
+    "chinese_simplified": "朝代",
+    "pinyin": "cháodài",
+    "english": "dynasty",
+    "hsk_level": null,
+    "category": "education"
+  },
+  {
+    "vietnamese": "thần thoại",
+    "chinese_traditional": "神話",
+    "chinese_simplified": "神话",
+    "pinyin": "shénhuà",
+    "english": "mythology; myth",
+    "hsk_level": null,
+    "category": "education"
+  },
+  {
+    "vietnamese": "thực tập",
+    "chinese_traditional": "實習",
+    "chinese_simplified": "实习",
+    "pinyin": "shíxí",
+    "english": "internship; practice",
+    "hsk_level": null,
+    "category": "education"
+  },
+  {
+    "vietnamese": "quy hoạch",
+    "chinese_traditional": "規劃",
+    "chinese_simplified": "规划",
+    "pinyin": "guīhuà",
+    "english": "planning",
+    "hsk_level": null,
+    "category": "business"
+  },
+  {
+    "vietnamese": "khai phá",
+    "chinese_traditional": "開拓",
+    "chinese_simplified": "开拓",
+    "pinyin": "kāituò",
+    "english": "to pioneer; to develop",
+    "hsk_level": null,
+    "category": "business"
+  },
+  {
+    "vietnamese": "tiếp thị",
+    "chinese_traditional": "行銷",
+    "chinese_simplified": "营销",
+    "pinyin": "yíngxiāo",
+    "english": "marketing",
+    "hsk_level": null,
+    "category": "business"
+  },
+  {
+    "vietnamese": "thăng tiến",
+    "chinese_traditional": "晉升",
+    "chinese_simplified": "晋升",
+    "pinyin": "jìnshēng",
+    "english": "to promote; promotion",
+    "hsk_level": null,
+    "category": "business"
+  },
+  {
+    "vietnamese": "thời trang",
+    "chinese_traditional": "時裝",
+    "chinese_simplified": "时装",
+    "pinyin": "shízhuāng",
+    "english": "fashion; trendy clothing",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "trung thành",
+    "chinese_traditional": "忠誠",
+    "chinese_simplified": "忠诚",
+    "pinyin": "zhōngchéng",
+    "english": "loyal; loyalty",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "sáng tạo",
+    "chinese_traditional": "創造",
+    "chinese_simplified": "创造",
+    "pinyin": "chuàngzào",
+    "english": "to create; creativity",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thắng lợi",
+    "chinese_traditional": "勝利",
+    "chinese_simplified": "胜利",
+    "pinyin": "shènglì",
+    "english": "victory",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "tiềm năng",
+    "chinese_traditional": "潛能",
+    "chinese_simplified": "潜能",
+    "pinyin": "qiánnéng",
+    "english": "potential",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "tiếp cận",
+    "chinese_traditional": "接近",
+    "chinese_simplified": "接近",
+    "pinyin": "jiējìn",
+    "english": "to approach; access",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "tiện lợi",
+    "chinese_traditional": "便利",
+    "chinese_simplified": "便利",
+    "pinyin": "biànlì",
+    "english": "convenient",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thành thạo",
+    "chinese_traditional": "熟練",
+    "chinese_simplified": "熟练",
+    "pinyin": "shúliàn",
+    "english": "proficient; skilled",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "tinh tế",
+    "chinese_traditional": "細膩",
+    "chinese_simplified": "细腻",
+    "pinyin": "xìnì",
+    "english": "delicate; subtle",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thăng trầm",
+    "chinese_traditional": "起伏",
+    "chinese_simplified": "起伏",
+    "pinyin": "qǐfú",
+    "english": "ups and downs; fluctuation",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "xã hội học",
+    "chinese_traditional": "社會學",
+    "chinese_simplified": "社会学",
+    "pinyin": "shèhuìxué",
+    "english": "sociology",
+    "hsk_level": null,
+    "category": "education"
+  },
+  {
+    "vietnamese": "kinh tế học",
+    "chinese_traditional": "經濟學",
+    "chinese_simplified": "经济学",
+    "pinyin": "jīngjìxué",
+    "english": "economics",
+    "hsk_level": null,
+    "category": "education"
+  },
+  {
+    "vietnamese": "chính trị học",
+    "chinese_traditional": "政治學",
+    "chinese_simplified": "政治学",
+    "pinyin": "zhèngzhìxué",
+    "english": "political science",
+    "hsk_level": null,
+    "category": "education"
+  },
+  {
+    "vietnamese": "văn tự",
+    "chinese_traditional": "文字",
+    "chinese_simplified": "文字",
+    "pinyin": "wénzì",
+    "english": "characters; writing system",
+    "hsk_level": null,
+    "category": "education"
+  },
+  {
+    "vietnamese": "triết lý",
+    "chinese_traditional": "哲理",
+    "chinese_simplified": "哲理",
+    "pinyin": "zhélǐ",
+    "english": "philosophy; philosophical principle",
+    "hsk_level": null,
+    "category": "education"
+  },
+  {
+    "vietnamese": "tôn sư",
+    "chinese_traditional": "尊師",
+    "chinese_simplified": "尊师",
+    "pinyin": "zūnshī",
+    "english": "to respect teachers",
+    "hsk_level": null,
+    "category": "education"
+  },
+  {
+    "vietnamese": "lão nhân",
+    "chinese_traditional": "老人",
+    "chinese_simplified": "老人",
+    "pinyin": "lǎorén",
+    "english": "elderly person",
+    "hsk_level": null,
+    "category": "family"
+  },
+  {
+    "vietnamese": "thanh thiếu niên",
+    "chinese_traditional": "青少年",
+    "chinese_simplified": "青少年",
+    "pinyin": "qīngshàonián",
+    "english": "youth; teenager",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thế hệ",
+    "chinese_traditional": "世代",
+    "chinese_simplified": "世代",
+    "pinyin": "shìdài",
+    "english": "generation",
+    "hsk_level": null,
+    "category": "family"
+  },
+  {
+    "vietnamese": "thi cử",
+    "chinese_traditional": "考試",
+    "chinese_simplified": "考试",
+    "pinyin": "kǎoshì",
+    "english": "exam; to test",
+    "hsk_level": null,
+    "category": "education"
+  },
+  {
+    "vietnamese": "tốt nghiệp",
+    "chinese_traditional": "畢業",
+    "chinese_simplified": "毕业",
+    "pinyin": "bìyè",
+    "english": "to graduate; graduation",
+    "hsk_level": null,
+    "category": "education"
+  },
+  {
+    "vietnamese": "bồi dưỡng",
+    "chinese_traditional": "培養",
+    "chinese_simplified": "培养",
+    "pinyin": "péiyǎng",
+    "english": "to cultivate; to train",
+    "hsk_level": null,
+    "category": "education"
+  },
+  {
+    "vietnamese": "tuần hoàn",
+    "chinese_traditional": "循環",
+    "chinese_simplified": "循环",
+    "pinyin": "xúnhuán",
+    "english": "circulation; cycle",
+    "hsk_level": null,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "thăng hoa",
+    "chinese_traditional": "昇華",
+    "chinese_simplified": "升华",
+    "pinyin": "shēnghuá",
+    "english": "sublimation; to sublimate",
+    "hsk_level": null,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "thủy triều",
+    "chinese_traditional": "潮汐",
+    "chinese_simplified": "潮汐",
+    "pinyin": "cháoxī",
+    "english": "tide",
+    "hsk_level": null,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "tinh tú",
+    "chinese_traditional": "星辰",
+    "chinese_simplified": "星辰",
+    "pinyin": "xīngchén",
+    "english": "stars",
+    "hsk_level": null,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "khí tượng",
+    "chinese_traditional": "氣象",
+    "chinese_simplified": "气象",
+    "pinyin": "qìxiàng",
+    "english": "meteorology; weather",
+    "hsk_level": null,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "thủy ngân",
+    "chinese_traditional": "水銀",
+    "chinese_simplified": "水银",
+    "pinyin": "shuǐyín",
+    "english": "mercury",
+    "hsk_level": null,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "thủy tinh",
+    "chinese_traditional": "水晶",
+    "chinese_simplified": "水晶",
+    "pinyin": "shuǐjīng",
+    "english": "crystal; glass",
+    "hsk_level": null,
+    "category": "nature"
+  },
+  {
+    "vietnamese": "cảnh cáo",
+    "chinese_traditional": "警告",
+    "chinese_simplified": "警告",
+    "pinyin": "jǐnggào",
+    "english": "warning; to warn",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "cảnh giác",
+    "chinese_traditional": "警惕",
+    "chinese_simplified": "警惕",
+    "pinyin": "jǐngtì",
+    "english": "vigilant; alert",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thương vụ",
+    "chinese_traditional": "商務",
+    "chinese_simplified": "商务",
+    "pinyin": "shāngwù",
+    "english": "business affairs",
+    "hsk_level": null,
+    "category": "business"
+  },
+  {
+    "vietnamese": "tiền tệ",
+    "chinese_traditional": "錢幣",
+    "chinese_simplified": "钱币",
+    "pinyin": "qiánbì",
+    "english": "currency; coins",
+    "hsk_level": null,
+    "category": "business"
+  },
+  {
+    "vietnamese": "thuế khóa",
+    "chinese_traditional": "稅收",
+    "chinese_simplified": "税收",
+    "pinyin": "shuìshōu",
+    "english": "tax revenue",
+    "hsk_level": null,
+    "category": "business"
+  },
+  {
+    "vietnamese": "thế trận",
+    "chinese_traditional": "陣地",
+    "chinese_simplified": "阵地",
+    "pinyin": "zhèndì",
+    "english": "position;阵地",
+    "hsk_level": null,
+    "category": "society"
+  },
+  {
+    "vietnamese": "quyết nghị",
+    "chinese_traditional": "決議",
+    "chinese_simplified": "决议",
+    "pinyin": "juéyì",
+    "english": "resolution; decision",
+    "hsk_level": null,
+    "category": "society"
+  },
+  {
+    "vietnamese": "phán xét",
+    "chinese_traditional": "裁判",
+    "chinese_simplified": "裁判",
+    "pinyin": "cáipàn",
+    "english": "judgment; referee",
+    "hsk_level": null,
+    "category": "society"
+  },
+  {
+    "vietnamese": "thâm thưởng",
+    "chinese_traditional": "欣賞",
+    "chinese_simplified": "欣赏",
+    "pinyin": "xīnshǎng",
+    "english": "to appreciate; to enjoy",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "chân thành",
+    "chinese_traditional": "真誠",
+    "chinese_simplified": "真诚",
+    "pinyin": "zhēnchéng",
+    "english": "sincere; genuine",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thản thành",
+    "chinese_traditional": "坦誠",
+    "chinese_simplified": "坦诚",
+    "pinyin": "tǎnchéng",
+    "english": "frank; candid",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "chính trực",
+    "chinese_traditional": "正直",
+    "chinese_simplified": "正直",
+    "pinyin": "zhèngzhí",
+    "english": "upright; honest",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thân thiện",
+    "chinese_traditional": "親切",
+    "chinese_simplified": "亲切",
+    "pinyin": "qīnqiè",
+    "english": "kind; friendly",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "tốt đẹp",
+    "chinese_traditional": "美好",
+    "chinese_simplified": "美好",
+    "pinyin": "měihǎo",
+    "english": "beautiful; wonderful",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "minh trí",
+    "chinese_traditional": "明智",
+    "chinese_simplified": "明智",
+    "pinyin": "míngzhì",
+    "english": "wise; sensible",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thực dụng",
+    "chinese_traditional": "實用",
+    "chinese_simplified": "实用",
+    "pinyin": "shíyòng",
+    "english": "practical; utilitarian",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thiên hạ",
+    "chinese_traditional": "天下",
+    "chinese_simplified": "天下",
+    "pinyin": "tiānxià",
+    "english": "all under heaven; the world",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "đô thị",
+    "chinese_traditional": "都市",
+    "chinese_simplified": "都市",
+    "pinyin": "dūshì",
+    "english": "metropolis; urban",
+    "hsk_level": null,
+    "category": "travel"
+  },
+  {
+    "vietnamese": "tiền thân",
+    "chinese_traditional": "前身",
+    "chinese_simplified": "前身",
+    "pinyin": "qiánshēn",
+    "english": "predecessor; former state",
+    "hsk_level": null,
+    "category": "society"
+  },
+  {
+    "vietnamese": "tâm thái",
+    "chinese_traditional": "心態",
+    "chinese_simplified": "心态",
+    "pinyin": "xīntài",
+    "english": "state of mind; mentality",
+    "hsk_level": null,
+    "category": "health"
+  },
+  {
+    "vietnamese": "tâm linh",
+    "chinese_traditional": "心靈",
+    "chinese_simplified": "心灵",
+    "pinyin": "xīnlíng",
+    "english": "soul; mind",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thính giác",
+    "chinese_traditional": "聽覺",
+    "chinese_simplified": "听觉",
+    "pinyin": "tīngjué",
+    "english": "hearing; audition",
+    "hsk_level": null,
+    "category": "health"
+  },
+  {
+    "vietnamese": "thị giác",
+    "chinese_traditional": "視覺",
+    "chinese_simplified": "视觉",
+    "pinyin": "shìjué",
+    "english": "vision; sight",
+    "hsk_level": null,
+    "category": "health"
+  },
+  {
+    "vietnamese": "thính giả",
+    "chinese_traditional": "聽眾",
+    "chinese_simplified": "听众",
+    "pinyin": "tīngzhòng",
+    "english": "audience; listeners",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thiêng liêng",
+    "chinese_traditional": "神聖",
+    "chinese_simplified": "神圣",
+    "pinyin": "shénsèng",
+    "english": "sacred; holy",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thanh lọc",
+    "chinese_traditional": "過濾",
+    "chinese_simplified": "过滤",
+    "pinyin": "guòlǜ",
+    "english": "to filter",
+    "hsk_level": null,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "tinh luyện",
+    "chinese_traditional": "精煉",
+    "chinese_simplified": "精炼",
+    "pinyin": "jīngliàn",
+    "english": "to refine; to concentrate",
+    "hsk_level": null,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "thống kê",
+    "chinese_traditional": "統計",
+    "chinese_simplified": "统计",
+    "pinyin": "tǒngjì",
+    "english": "statistics; to count",
+    "hsk_level": null,
+    "category": "technology"
+  },
+  {
+    "vietnamese": "tiền sử",
+    "chinese_traditional": "病史",
+    "chinese_simplified": "病史",
+    "pinyin": "bìngshǐ",
+    "english": "medical history",
+    "hsk_level": null,
+    "category": "health"
+  },
+  {
+    "vietnamese": "dược phẩm",
+    "chinese_traditional": "藥品",
+    "chinese_simplified": "药品",
+    "pinyin": "yàopǐn",
+    "english": "pharmaceuticals; drugs",
+    "hsk_level": null,
+    "category": "health"
+  },
+  {
+    "vietnamese": "y dược",
+    "chinese_traditional": "醫藥",
+    "chinese_simplified": "医药",
+    "pinyin": "yīyào",
+    "english": "medicine; pharmaceuticals",
+    "hsk_level": null,
+    "category": "health"
+  },
+  {
+    "vietnamese": "dịch bệnh",
+    "chinese_traditional": "疫病",
+    "chinese_simplified": "疫病",
+    "pinyin": "yìbìng",
+    "english": "epidemic; plague",
+    "hsk_level": null,
+    "category": "health"
+  },
+  {
+    "vietnamese": "yêu cầu",
+    "chinese_traditional": "要求",
+    "chinese_simplified": "要求",
+    "pinyin": "yāoqiú",
+    "english": "to require; requirement",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thâm nhập",
+    "chinese_traditional": "深入",
+    "chinese_simplified": "深入",
+    "pinyin": "shēnrù",
+    "english": "to go deep into; to penetrate",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thâm cứu",
+    "chinese_traditional": "研究",
+    "chinese_simplified": "研究",
+    "pinyin": "yánjiū",
+    "english": "to study; research",
+    "hsk_level": null,
+    "category": "education"
+  },
+  {
+    "vietnamese": "thảo thương",
+    "chinese_traditional": "商討",
+    "chinese_simplified": "商讨",
+    "pinyin": "shāngtǎo",
+    "english": "to discuss; to consult",
+    "hsk_level": null,
+    "category": "business"
+  },
+  {
+    "vietnamese": "thông cảm",
+    "chinese_traditional": "體諒",
+    "chinese_simplified": "体谅",
+    "pinyin": "tǐliàng",
+    "english": "to understand; to be considerate",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thể hội",
+    "chinese_traditional": "體會",
+    "chinese_simplified": "体会",
+    "pinyin": "tǐhuì",
+    "english": "to experience; to realize",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thành tựu",
+    "chinese_traditional": "成就",
+    "chinese_simplified": "成就",
+    "pinyin": "chéngjiù",
+    "english": "achievement; accomplishment",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thông tục",
+    "chinese_traditional": "通俗",
+    "chinese_simplified": "通俗",
+    "pinyin": "tōngsú",
+    "english": "popular; accessible",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thanh nhã",
+    "chinese_traditional": "優雅",
+    "chinese_simplified": "优雅",
+    "pinyin": "yōuyǎ",
+    "english": "elegant; graceful",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thẩm mỹ",
+    "chinese_traditional": "審美",
+    "chinese_simplified": "审美",
+    "pinyin": "shěnměi",
+    "english": "aesthetic",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "tâm hồn",
+    "chinese_traditional": "心靈",
+    "chinese_simplified": "心灵",
+    "pinyin": "xīnlíng",
+    "english": "soul; inner world",
+    "hsk_level": null,
+    "category": "daily"
+  },
+  {
+    "vietnamese": "thản bạch",
+    "chinese_traditional": "坦白",
+    "chinese_simplified": "坦白",
+    "pinyin": "tǎnbái",
+    "english": "to confess; frank",
+    "hsk_level": null,
+    "category": "daily"
+  }
+]

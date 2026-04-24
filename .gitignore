@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+uv.lock
+
+# Node
+web/node_modules/
+web/.next/
+web/out/
+web/.vercel/
+web/dist/
+*.tsbuildinfo
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+
+# Hermes Agent
+~/.hermes/
+
+# LiveKit
+.lk/
+
+# Audio files generated during development
+*.wav
+*.mp3
+*.ogg
+*.opus
+
+# Data
+*.sqlite3
+*.db
+
+# Logs
+logs/
+*.log
+
+# Testing
+.pytest_cache/
+coverage/
+.html/

@@ -1,0 +1,58 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.ruff_cache/
+
+# Node.js
+web/node_modules/
+web/.next/
+web/tsconfig.tsbuildinfo
+web/.pnpm-store/
+
+# Tests (not needed in production image)
+tests/
+
+# Environment files (secrets)
+.env
+.env.local
+
+# Version control
+.git/
+.gitignore
+
+# Documentation
+README.md
+AGENTS.md
+
+# IDE and editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+server.log
+*.tmp
+
+# Docker files (not needed inside the image)
+docker-compose.yml
+Dockerfile
+.dockerignore
+
+# Hermes config (not needed for voice agent)
+hermes_config.yaml
